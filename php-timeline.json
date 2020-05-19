@@ -4,7 +4,7 @@
         "date": "2020-05-04T00:00:00+00:00",
         "title": "Attributes Accepted for PHP 8",
         "href": "https://wiki.php.net/rfc/attributes_v2",
-        "description": "{{<<PhpAttribute>> class Release {     public function __construct(protected SemVer $version) {} } }}",
+        "description": "<code><<PhpAttribute>> class Release {     public function __construct(protected SemVer $version) {} } </code>",
         "comment": ""
     },
     {
@@ -76,7 +76,7 @@
         "date": "2019-11-28T00:00:00+00:00",
         "title": "PHP 7.4",
         "href": "https://www.php.net/releases/7_4_0.php",
-        "description": "The most recent huge update for the language included typed properties, arrow functions, numeric literal separator, allowed exceptions from {{__toString()}}, of course opcache preloading, and even more.",
+        "description": "The most recent huge update for the language included typed properties, arrow functions, numeric literal separator, allowed exceptions from <code>__toString()</code>, of course opcache preloading, and even more.",
         "comment": ""
     },
     {
@@ -204,7 +204,7 @@
         "date": "2018-10-17T00:00:00+00:00",
         "title": "Zeev Suraski Leaves Zend",
         "href": "http://zsuraski.blogspot.com/2018/10/the-future-of-zend-engine-and-zend.html",
-        "description": "The end of an era – the second of two founders left the company. [Matthew Weier O'Phinney](https://mwop.net/blog/2018-10-17-long-live-zf.html) and [Enrico Zimuel](https://www.linkedin.com/pulse/future-zend-framework-enrico-zimuel/) left the company too.",
+        "description": "The end of an era – the second of two founders left the company. <a href=\"https://mwop.net/blog/2018-10-17-long-live-zf.html\">Matthew Weier O'Phinney</a> and <a href=\"https://www.linkedin.com/pulse/future-zend-framework-enrico-zimuel/\">Enrico Zimuel</a> left the company too.",
         "comment": ""
     },
     {
@@ -444,7 +444,7 @@
         "date": "2016-03-17T00:00:00+00:00",
         "title": "PhpStorm 2016.1",
         "href": "https://blog.jetbrains.com/phpstorm/2016/03/phpstorm-2016-1-is-released/",
-        "description": "The first PhpStorm release with a [new YYYY.R versioning model](https://blog.jetbrains.com/blog/2016/03/09/jetbrains-toolbox-release-and-versioning-changes/).",
+        "description": "The first PhpStorm release with a <a href=\"https://blog.jetbrains.com/blog/2016/03/09/jetbrains-toolbox-release-and-versioning-changes/\">new YYYY.R versioning model</a>.",
         "comment": ""
     },
     {
@@ -612,7 +612,7 @@
         "date": "2014-09-01T00:00:00+00:00",
         "title": "PHP-Parser 1.0",
         "href": "https://github.com/nikic/PHP-Parser",
-        "description": "A PHP parser written in PHP allowed to create [many tools](https://packagist.org/packages/nikic/php-parser/dependents?order_by=downloads) on top of it.",
+        "description": "A PHP parser written in PHP allowed to create <a href=\"https://packagist.org/packages/nikic/php-parser/dependents?order_by=downloads\">many tools</a> on top of it.",
         "comment": ""
     },
     {
@@ -620,7 +620,7 @@
         "date": "2014-08-28T00:00:00+00:00",
         "title": "PHP 5.6",
         "href": "https://www.php.net/releases/5_6_0.php",
-        "description": "This last major PHP 5 release brought such things as constant scalar expressions, splat {{...}} operator for variadic functions and argument unpacking, function and constant importing with the {{use}} keyword, phpdbg as an integrated debugger, operator overloading (yeah PHP has it) for GMP objects.",
+        "description": "This last major PHP 5 release brought such things as constant scalar expressions, splat <code>...</code> operator for variadic functions and argument unpacking, function and constant importing with the <code>use</code> keyword, phpdbg as an integrated debugger, operator overloading (yeah PHP has it) for GMP objects.",
         "comment": ""
     },
     {
@@ -732,7 +732,7 @@
         "date": "2013-06-20T00:00:00+00:00",
         "title": "PHP 5.5",
         "href": "https://www.php.net/releases/5_5_0.php",
-        "description": "This released introduced generators and coroutines, {{finally}} keyword, scalar class name resolution via {{::class}}, and many more. On of the greatests things it brought was the bundled Zend OPcache extension which  made opcade caching available and opened a door to more performance optimizations.",
+        "description": "This released introduced generators and coroutines, <code>finally</code> keyword, scalar class name resolution via <code>::class</code>, and many more. On of the greatests things it brought was the bundled Zend OPcache extension which  made opcade caching available and opened a door to more performance optimizations.",
         "comment": ""
     },
     {
@@ -1132,7 +1132,7 @@
         "date": "2005-10-18T00:00:00+00:00",
         "title": "Symfony project kicked off",
         "href": "https://web.archive.org/web/20051023011952/http://www.symfony-project.com/",
-        "description": "Fabien Potencier made the first import of the Symfony 1 code to the Subversion repository (see [changeset](https://web.archive.org/web/20080915154420/http://trac.symfony-project.org/changeset/1)).",
+        "description": "Fabien Potencier made the first import of the Symfony 1 code to the Subversion repository (see <a href=\"https://web.archive.org/web/20080915154420/http://trac.symfony-project.org/changeset/1\">changeset</a>).",
         "comment": ""
     },
     {
@@ -1252,7 +1252,7 @@
         "date": "2001-11-27T00:00:00+00:00",
         "title": "Initial commit of PHPUnit",
         "href": "http://svn.php.net/viewvc?view=revision&revision=63330",
-        "description": "Sebastian Bergmann started the work on the [most used](https://todo/) PHP testing framework. It was inspired by SUnit and JUnit.",
+        "description": "Sebastian Bergmann started the work on the <a href=\"https://todo/\">most used</a> PHP testing framework. It was inspired by SUnit and JUnit.",
         "comment": ""
     },
     {
@@ -1332,7 +1332,7 @@
         "date": "2000-01-01T00:00:00+00:00",
         "title": "PHP Developers' Meeting",
         "href": "http://zsuraski.blogspot.com/2018/05/zendcon-openenterprise-2018.html#:~:text=1st%20%26%20only%20face%20to%20face%20meeting%20that%20included%20(almost)%20everyone%20who%20was%20working%20on%20PHP",
-        "description": "The first face to face meeting that included (almost) everyone who was working on PHP. <img src=\"https://4.bp.blogspot.com/-5ji0X40r_hM/Ww1kKlpeUiI/AAAAAAAInM0/M7knATV7sM44JMLX03VBvMwsGO134mg6wCLcBGAs/s1600/Picture1.jpg\"> <br> [How many people can you name?](https://twitter.com/rasmus/status/1259903214058528768)",
+        "description": "The first face to face meeting that included (almost) everyone who was working on PHP. <img src=\"https://4.bp.blogspot.com/-5ji0X40r_hM/Ww1kKlpeUiI/AAAAAAAInM0/M7knATV7sM44JMLX03VBvMwsGO134mg6wCLcBGAs/s1600/Picture1.jpg\"> <br> <a href=\"https://twitter.com/rasmus/status/1259903214058528768\">How many people can you name?</a>",
         "comment": ""
     },
     {
@@ -1452,7 +1452,7 @@
         "date": "1994-01-01T00:00:00+00:00",
         "title": "Rasmus Lerdorf Started Working on PHP",
         "href": "",
-        "description": "The very first incarnation of PHP was a simple set of Common Gateway Interface (CGI) binaries written in the C programming language ([not Perl](https://twitter.com/rasmus/status/226405807305138176)). Originally used for tracking visits to Rasmus Lerdorf's online resume, he named the suite of scripts \"Personal Home Page Tools,\" more frequently referenced as \"PHP Tools.\" ",
+        "description": "The very first incarnation of PHP was a simple set of Common Gateway Interface (CGI) binaries written in the C programming language (<a href=\"https://twitter.com/rasmus/status/226405807305138176\">not Perl</a>). Originally used for tracking visits to Rasmus Lerdorf's online resume, he named the suite of scripts \"Personal Home Page Tools,\" more frequently referenced as \"PHP Tools.\" ",
         "comment": "Date unknown"
     }
 ]
