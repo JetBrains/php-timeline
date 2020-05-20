@@ -2,7 +2,7 @@
     {
         "priority": 1,
         "date": "2020-05-04T00:00:00+00:00",
-        "title": "Attributes Accepted for PHP&nbsp;8",
+        "title": "Attributes Accepted for PHP 8",
         "href": "https://wiki.php.net/rfc/attributes_v2",
         "description": "<code><<PhpAttribute>> class Release {     public function __construct(protected SemVer $version) {} } </code>",
         "comment": ""
@@ -10,7 +10,7 @@
     {
         "priority": 3,
         "date": "2020-04-14T00:00:00+00:00",
-        "title": "PhpStorm&nbsp;2020.1",
+        "title": "PhpStorm 2020.1",
         "href": "https://blog.jetbrains.com/phpstorm/2020/04/phpstorm-2020-1-release/",
         "description": "",
         "comment": ""
@@ -18,7 +18,7 @@
     {
         "priority": 3,
         "date": "2020-04-06T00:00:00+00:00",
-        "title": "PHP&nbsp;8 release schedule available",
+        "title": "PHP 8 release schedule available",
         "href": "https://wiki.php.net/todo/php80",
         "description": "",
         "comment": ""
@@ -34,7 +34,7 @@
     {
         "priority": 3,
         "date": "2020-03-03T00:00:00+00:00",
-        "title": "Laravel&nbsp;7",
+        "title": "Laravel 7",
         "href": "https://laravel-news.com/laravel7",
         "description": "",
         "comment": "remove ?"
@@ -42,7 +42,7 @@
     {
         "priority": 3,
         "date": "2020-02-24T00:00:00+00:00",
-        "title": "CodeIgniter&nbsp;4.0",
+        "title": "CodeIgniter 4.0",
         "href": "https://github.com/codeigniter4/CodeIgniter4",
         "description": "",
         "comment": ""
@@ -66,7 +66,7 @@
     {
         "priority": 3,
         "date": "2019-12-15T00:00:00+00:00",
-        "title": "CakePHP&nbsp;4.0",
+        "title": "CakePHP 4.0",
         "href": "https://bakery.cakephp.org/2019/12/15/cakephp_400_released.html",
         "description": "",
         "comment": ""
@@ -74,7 +74,7 @@
     {
         "priority": 1,
         "date": "2019-11-28T00:00:00+00:00",
-        "title": "PHP&nbsp;7.4",
+        "title": "PHP 7.4",
         "href": "https://www.php.net/releases/7_4_0.php",
         "description": "The most recent huge update for the language included typed properties, arrow functions, numeric literal separator, allowed exceptions from <code>__toString()</code>, of course opcache preloading, and even more.",
         "comment": ""
@@ -82,7 +82,7 @@
     {
         "priority": 2,
         "date": "2019-11-21T00:00:00+00:00",
-        "title": "Symfony&nbsp;5",
+        "title": "Symfony 5",
         "href": "https://symfony.com/blog/symfony-5-0-0-released",
         "description": "",
         "comment": ""
@@ -90,7 +90,7 @@
     {
         "priority": 3,
         "date": "2019-09-11T00:00:00+00:00",
-        "title": "Laravel&nbsp;6",
+        "title": "Laravel 6",
         "href": "https://laravel-news.com/laravel-6",
         "description": "",
         "comment": "remove ?"
@@ -178,7 +178,7 @@
     {
         "priority": 3,
         "date": "2019-01-10T00:00:00+00:00",
-        "title": "PHP&nbsp;5.6.40 – the last PHP 5 release",
+        "title": "PHP 5.6.40 – the last PHP 5 release",
         "href": "",
         "description": "",
         "comment": ""
@@ -186,7 +186,7 @@
     {
         "priority": 1,
         "date": "2018-12-06T00:00:00+00:00",
-        "title": "PHP&nbsp;7.3",
+        "title": "PHP 7.3",
         "href": "https://www.php.net/releases/7_3_0.php",
         "description": "The release brought updates for Heredoc and Nowdoc strings, trailing comma in arguments list, new hrtime() function, improved garbage collection, and some other features.",
         "comment": ""
@@ -218,7 +218,7 @@
     {
         "priority": 2,
         "date": "2018-07-11T00:00:00+00:00",
-        "title": "ReactPHP&nbsp;1.0&nbsp;LTS",
+        "title": "ReactPHP 1.0 LTS",
         "href": "https://clue.engineering/2018/announcing-reactphp-lts",
         "description": "",
         "comment": ""
@@ -242,7 +242,7 @@
     {
         "priority": 2,
         "date": "2018-03-16T00:00:00+00:00",
-        "title": "Zend&nbsp;Expressive&nbsp;3",
+        "title": "Zend Expressive 3",
         "href": "https://framework.zend.com/blog/2018-03-16-expressive-3.html",
         "description": "",
         "comment": ""
@@ -250,7 +250,7 @@
     {
         "priority": 2,
         "date": "2018-02-22T00:00:00+00:00",
-        "title": "Psalm&nbsp;1.0",
+        "title": "Psalm 1.0",
         "href": "https://github.com/vimeo/psalm/releases/tag/1.0.0",
         "description": "TODO text",
         "comment": ""
@@ -266,7 +266,7 @@
     {
         "priority": 3,
         "date": "2018-01-08T00:00:00+00:00",
-        "title": "PHP-PM&nbsp;1.0",
+        "title": "PHP-PM 1.0",
         "href": "https://github.com/php-pm/php-pm/releases/tag/1.0.0",
         "description": "TODO text",
         "comment": ""
@@ -282,7 +282,7 @@
     {
         "priority": 1,
         "date": "2017-11-30T00:00:00+00:00",
-        "title": "PHP&nbsp;7.2",
+        "title": "PHP 7.2",
         "href": "https://www.php.net/releases/7_2_0.php",
         "description": "",
         "comment": ""
@@ -290,7 +290,7 @@
     {
         "priority": 2,
         "date": "2017-11-30T00:00:00+00:00",
-        "title": "Symfony&nbsp;4",
+        "title": "Symfony 4",
         "href": "https://symfony.com/blog/hello-symfony-4",
         "description": "",
         "comment": ""
@@ -306,7 +306,7 @@
     {
         "priority": 2,
         "date": "2017-09-06T00:00:00+00:00",
-        "title": "Laravel&nbsp;5.5&nbsp;LTS",
+        "title": "Laravel 5.5 LTS",
         "href": "https://laravel-news.com/laravel-5-5",
         "description": "",
         "comment": ""
@@ -314,7 +314,7 @@
     {
         "priority": 2,
         "date": "2017-07-01T00:00:00+00:00",
-        "title": "InfectionPHP&nbsp;0.1",
+        "title": "InfectionPHP 0.1",
         "href": "https://github.com/infection/infection/releases/tag/0.1.0",
         "description": "TODO text",
         "comment": ""
@@ -322,7 +322,7 @@
     {
         "priority": 3,
         "date": "2017-06-15T00:00:00+00:00",
-        "title": "Amphp&nbsp;2.0",
+        "title": "Amphp 2.0",
         "href": "https://github.com/amphp/amp/releases/tag/v2.0.0",
         "description": "TODO text",
         "comment": ""
@@ -338,7 +338,7 @@
     {
         "priority": 3,
         "date": "2017-04-06T00:00:00+00:00",
-        "title": "Spiral&nbsp;Framework&nbsp;1.0",
+        "title": "Spiral Framework 1.0",
         "href": "https://github.com/spiral/framework/releases/tag/v1.0.0",
         "description": "",
         "comment": ""
@@ -346,7 +346,7 @@
     {
         "priority": 3,
         "date": "2017-03-07T00:00:00+00:00",
-        "title": "Expressive&nbsp;2.0",
+        "title": "Expressive 2.0",
         "href": "https://framework.zend.com/blog/2017-03-07-expressive-2.html",
         "description": "",
         "comment": ""
@@ -370,7 +370,7 @@
     {
         "priority": 1,
         "date": "2016-12-01T00:00:00+00:00",
-        "title": "PHP&nbsp;7.1",
+        "title": "PHP 7.1",
         "href": "https://www.php.net/releases/7_1_0.php",
         "description": "The update brought another speed-up, as well as nullable types, class constant visiblity modifiers, void return type, and other things.",
         "comment": ""
@@ -386,7 +386,7 @@
     {
         "priority": 3,
         "date": "2016-10-01T00:00:00+00:00",
-        "title": "PHP-FIG&nbsp;3.0 – the new bylaws of the group",
+        "title": "PHP-FIG 3.0 – the new bylaws of the group",
         "href": "https://github.com/php-fig/fig-standards/pull/752",
         "description": "",
         "comment": ""
@@ -394,7 +394,7 @@
     {
         "priority": 3,
         "date": "2016-08-01T00:00:00+00:00",
-        "title": "Swoole&nbsp;2 released with coroutines",
+        "title": "Swoole 2 released with coroutines",
         "href": "",
         "description": "",
         "comment": ""
@@ -410,7 +410,7 @@
     {
         "priority": 3,
         "date": "2016-07-17T00:00:00+00:00",
-        "title": "PHPStan&nbsp;0.1 released",
+        "title": "PHPStan 0.1 released",
         "href": "https://github.com/phpstan/phpstan",
         "description": "",
         "comment": ""
@@ -418,7 +418,7 @@
     {
         "priority": 2,
         "date": "2016-06-28T00:00:00+00:00",
-        "title": "Zend&nbsp;Framework&nbsp;3",
+        "title": "Zend Framework 3",
         "href": "https://framework.zend.com/blog/2016-06-28-zend-framework-3.html",
         "description": "",
         "comment": ""
@@ -426,7 +426,7 @@
     {
         "priority": 3,
         "date": "2016-05-18T00:00:00+00:00",
-        "title": "Silex&nbsp;2.0",
+        "title": "Silex 2.0",
         "href": "https://github.com/silexphp/Silex/blob/master/doc/changelog.rst#200-2016-05-18",
         "description": "",
         "comment": ""
@@ -434,7 +434,7 @@
     {
         "priority": 2,
         "date": "2016-04-05T00:00:00+00:00",
-        "title": "Composer&nbsp;1.0.0 goes gold",
+        "title": "Composer 1.0.0 goes gold",
         "href": "https://seld.be/notes/composer-goes-gold",
         "description": "",
         "comment": ""
@@ -442,7 +442,7 @@
     {
         "priority": 2,
         "date": "2016-03-17T00:00:00+00:00",
-        "title": "PhpStorm&nbsp;2016.1",
+        "title": "PhpStorm 2016.1",
         "href": "https://blog.jetbrains.com/phpstorm/2016/03/phpstorm-2016-1-is-released/",
         "description": "The first PhpStorm release with a <a href=\"https://blog.jetbrains.com/blog/2016/03/09/jetbrains-toolbox-release-and-versioning-changes/\">new YYYY.R versioning model</a>.",
         "comment": ""
@@ -458,7 +458,7 @@
     {
         "priority": 2,
         "date": "2016-01-28T00:00:00+00:00",
-        "title": "Zend&nbsp;Expressive&nbsp;1.0",
+        "title": "Zend Expressive 1.0",
         "href": "https://framework.zend.com/blog/2016-01-28-expressive-1.0-stable.html",
         "description": "",
         "comment": ""
@@ -474,15 +474,15 @@
     {
         "priority": 1,
         "date": "2015-12-03T00:00:00+00:00",
-        "title": "PHP&nbsp;7.0",
+        "title": "PHP 7.0",
         "href": "https://www.php.net/releases/7_0_0.php",
-        "description": "A major language renewal gave him a new life. It came with a new Zend&nbsp;Engine&nbsp;3 (PHPNG), numerous improvements and new features and up to twice as fast as previous PHP&nbsp;5.6.",
+        "description": "A major language renewal gave him a new life. It came with a new Zend Engine 3 (PHPNG), numerous improvements and new features and up to twice as fast as previous PHP 5.6.",
         "comment": ""
     },
     {
         "priority": 2,
         "date": "2015-11-30T00:00:00+00:00",
-        "title": "Symfony&nbsp;3",
+        "title": "Symfony 3",
         "href": "https://symfony.com/blog/symfony-3-0-0-released",
         "description": "",
         "comment": ""
@@ -490,7 +490,7 @@
     {
         "priority": 2,
         "date": "2015-11-19T00:00:00+00:00",
-        "title": "Drupal&nbsp;8 released",
+        "title": "Drupal 8 released",
         "href": "https://www.drupal.org/blog/drupal-800-released",
         "description": "",
         "comment": ""
@@ -498,7 +498,7 @@
     {
         "priority": 2,
         "date": "2015-11-17T00:00:00+00:00",
-        "title": "Magento&nbsp;2",
+        "title": "Magento 2",
         "href": "https://magento.com/blog/magento-news/new-era-commerce-innovation",
         "description": "",
         "comment": ""
@@ -546,7 +546,7 @@
     {
         "priority": 2,
         "date": "2015-03-30T00:00:00+00:00",
-        "title": "CodeIgniter&nbsp;3",
+        "title": "CodeIgniter 3",
         "href": "",
         "description": "",
         "comment": ""
@@ -554,7 +554,7 @@
     {
         "priority": 2,
         "date": "2015-03-22T00:00:00+00:00",
-        "title": "CakePHP&nbsp;3",
+        "title": "CakePHP 3",
         "href": "https://bakery.cakephp.org/articles/lorenzo/2015/03/22/cakephp_3_0_0_is_here",
         "description": "",
         "comment": ""
@@ -570,7 +570,7 @@
     {
         "priority": 2,
         "date": "2015-02-01T00:00:00+00:00",
-        "title": "Laravel&nbsp;5",
+        "title": "Laravel 5",
         "href": "https://laravel.com/docs/5.0/releases#laravel-5.0",
         "description": "",
         "comment": ""
@@ -586,7 +586,7 @@
     {
         "priority": 3,
         "date": "2014-10-12T00:00:00+00:00",
-        "title": "Yii&nbsp;2.0",
+        "title": "Yii 2.0",
         "href": "https://www.yiiframework.com/news/81/yii-2-0-0-is-released",
         "description": "",
         "comment": ""
@@ -594,7 +594,7 @@
     {
         "priority": 2,
         "date": "2014-09-01T00:00:00+00:00",
-        "title": "PHP-Parser&nbsp;1.0",
+        "title": "PHP-Parser 1.0",
         "href": "https://github.com/nikic/PHP-Parser",
         "description": "A PHP parser written in PHP allowed to create <a href=\"https://packagist.org/packages/nikic/php-parser/dependents?order_by=downloads\">many tools</a> on top of it.",
         "comment": ""
@@ -602,9 +602,9 @@
     {
         "priority": 1,
         "date": "2014-08-28T00:00:00+00:00",
-        "title": "PHP&nbsp;5.6",
+        "title": "PHP 5.6",
         "href": "https://www.php.net/releases/5_6_0.php",
-        "description": "This last major PHP&nbsp;5 release brought such things as constant scalar expressions, splat <code>...</code> operator for variadic functions and argument unpacking, function and constant importing with the <code>use</code> keyword, phpdbg as an integrated debugger, operator overloading (yeah PHP has it) for GMP objects.",
+        "description": "This last major PHP 5 release brought such things as constant scalar expressions, splat <code>...</code> operator for variadic functions and argument unpacking, function and constant importing with the <code>use</code> keyword, phpdbg as an integrated debugger, operator overloading (yeah PHP has it) for GMP objects.",
         "comment": ""
     },
     {
@@ -628,13 +628,13 @@
         "date": "2014-05-27T00:00:00+00:00",
         "title": "PHPNG First Announced",
         "href": "https://www.php.net/archive/2014.php#id2014-05-27-1",
-        "description": "It all started with Dmitry Stogov's message in php.internals, and as a result, a new generation PHP interpreter was introduced, which became the basis of PHP&nbsp;7.",
+        "description": "It all started with Dmitry Stogov's message in php.internals, and as a result, a new generation PHP interpreter was introduced, which became the basis of PHP 7.",
         "comment": ""
     },
     {
         "priority": 3,
         "date": "2014-05-06T00:00:00+00:00",
-        "title": "Codeception&nbsp;2.0",
+        "title": "Codeception 2.0",
         "href": "https://codeception.com/06-05-2014/codeception-2.0-final",
         "description": "",
         "comment": ""
@@ -650,7 +650,7 @@
     {
         "priority": 3,
         "date": "2014-03-28T00:00:00+00:00",
-        "title": "HHVM&nbsp;3.0",
+        "title": "HHVM 3.0",
         "href": "https://hhvm.com/blog/4349/hhvm-3-0-0",
         "description": "",
         "comment": ""
@@ -706,7 +706,7 @@
     {
         "priority": 3,
         "date": "2013-07-03T00:00:00+00:00",
-        "title": "Nette&nbsp;2",
+        "title": "Nette 2",
         "href": "https://github.com/nette/nette/releases/tag/v2.0.0",
         "description": "",
         "comment": ""
@@ -714,7 +714,7 @@
     {
         "priority": 1,
         "date": "2013-06-20T00:00:00+00:00",
-        "title": "PHP&nbsp;5.5",
+        "title": "PHP 5.5",
         "href": "https://www.php.net/releases/5_5_0.php",
         "description": "This released introduced generators and coroutines, <code>finally</code> keyword, scalar class name resolution via <code>::class</code>, and many more. On of the greatests things it brought was the bundled Zend OPcache extension which  made opcade caching available and opened a door to more performance optimizations.",
         "comment": ""
@@ -722,9 +722,9 @@
     {
         "priority": 1,
         "date": "2013-05-28T00:00:00+00:00",
-        "title": "Laravel&nbsp;4",
+        "title": "Laravel 4",
         "href": "",
-        "description": "Illuminate, also known as Laravel&nbsp;4 was re-written from the ground up as a collection of components that integrate with each other to make up a framework. The management of these components is done through the Composer.",
+        "description": "Illuminate, also known as Laravel 4 was re-written from the ground up as a collection of components that integrate with each other to make up a framework. The management of these components is done through the Composer.",
         "comment": ""
     },
     {
@@ -738,7 +738,7 @@
     {
         "priority": 2,
         "date": "2013-05-03T00:00:00+00:00",
-        "title": "Silex&nbsp;1.0",
+        "title": "Silex 1.0",
         "href": "https://github.com/fabpot/Silex/releases/tag/v1.0.0",
         "description": "",
         "comment": ""
@@ -746,7 +746,7 @@
     {
         "priority": 1,
         "date": "2013-04-14T00:00:00+00:00",
-        "title": "React&nbsp;v0.3",
+        "title": "React v0.3",
         "href": "https://web.archive.org/web/20131113234811/http://reactphp.org/2013/04/14/v0.3.0.html",
         "description": "This was the first public release of the ReactPHP, which proved the async model can be in PHP applications. Back then React.js was not yet a thing, so it was called just React.",
         "comment": ""
@@ -770,7 +770,7 @@
     {
         "priority": 3,
         "date": "2013-01-08T00:00:00+00:00",
-        "title": "Go!&nbsp;AOP&nbsp;1.0",
+        "title": "Go! AOP 1.0",
         "href": "https://github.com/goaop/framework/releases/tag/0.1.0",
         "description": "",
         "comment": ""
@@ -786,7 +786,7 @@
     {
         "priority": 3,
         "date": "2012-09-09T00:00:00+00:00",
-        "title": "Slim&nbsp;2.0",
+        "title": "Slim 2.0",
         "href": "https://github.com/codeguy/Slim/releases/tag/2.0.0",
         "description": "",
         "comment": ""
@@ -794,7 +794,7 @@
     {
         "priority": 2,
         "date": "2012-09-04T00:00:00+00:00",
-        "title": "Zend&nbsp;Framework&nbsp;2.0",
+        "title": "Zend Framework 2.0",
         "href": "https://framework.zend.com/changelog/2.0.0",
         "description": "",
         "comment": ""
@@ -802,7 +802,7 @@
     {
         "priority": 1,
         "date": "2012-07-08T00:00:00+00:00",
-        "title": "PHP&nbsp;The&nbsp;Right&nbsp;Way",
+        "title": "PHP The Right Way",
         "href": "https://github.com/codeguy/php-the-right-way/commit/66f33ea4e91c50af4599bf543f39e108475aaab0/",
         "description": "TODO text https://phptherightway.com/",
         "comment": ""
@@ -826,7 +826,7 @@
     {
         "priority": 2,
         "date": "2012-05-08T00:00:00+00:00",
-        "title": "Pimple&nbsp;v1.0",
+        "title": "Pimple v1.0",
         "href": "https://github.com/fabpot/Pimple/releases/tag/v1.0.0",
         "description": "",
         "comment": ""
@@ -850,7 +850,7 @@
     {
         "priority": 1,
         "date": "2012-03-01T00:00:00+00:00",
-        "title": "PHP&nbsp;5.4",
+        "title": "PHP 5.4",
         "href": "https://www.php.net/releases/5_4_0.php",
         "description": "New major version of PHP introduced significant improvуment of performance, memory footprint and fixing of over 100 bugs. New features included traits, shortened array syntax, built-in webserver for testing purposes and more.",
         "comment": ""
@@ -858,23 +858,23 @@
     {
         "priority": 2,
         "date": "2012-02-03T00:00:00+00:00",
-        "title": "Laravel&nbsp;3",
+        "title": "Laravel 3",
         "href": "https://web.archive.org/web/20121025120144/http://forums.laravel.com/viewtopic.php?id=573",
-        "description": "Laravel&nbsp;3 was released along with a shiny new website and great new features of the framework: unit test integration, the Artisan command line interface, database migrations, events, more session drivers and database drivers, integration for “bundles” and more.",
+        "description": "Laravel 3 was released along with a shiny new website and great new features of the framework: unit test integration, the Artisan command line interface, database migrations, events, more session drivers and database drivers, integration for “bundles” and more.",
         "comment": ""
     },
     {
         "priority": 3,
         "date": "2011-11-24T00:00:00+00:00",
-        "title": "Laravel&nbsp;2",
+        "title": "Laravel 2",
         "href": "https://web.archive.org/web/20121025120041/http://forums.laravel.com/viewtopic.php?id=403",
-        "description": "Major new features included the support for controllers, which made Laravel&nbsp;2 a fully MVC-compliant framework, built-in support for the inversion of control (IoC) principle, and a templating system called Blade. ",
+        "description": "Major new features included the support for controllers, which made Laravel 2 a fully MVC-compliant framework, built-in support for the inversion of control (IoC) principle, and a templating system called Blade. ",
         "comment": ""
     },
     {
         "priority": 3,
         "date": "2011-10-16T00:00:00+00:00",
-        "title": "CakePHP&nbsp;2",
+        "title": "CakePHP 2",
         "href": "https://web.archive.org/web/20111018074256/https://bakery.cakephp.org/articles/lorenzo/2011/10/16/cakephp_2_0_released",
         "description": "",
         "comment": ""
@@ -890,7 +890,7 @@
     {
         "priority": 2,
         "date": "2011-07-01T00:00:00+00:00",
-        "title": "Symfony&nbsp;2",
+        "title": "Symfony 2",
         "href": "https://web.archive.org/web/20110317011324/http://symfony.com/",
         "description": "",
         "comment": ""
@@ -906,7 +906,7 @@
     {
         "priority": 1,
         "date": "2011-06-09T00:00:00+00:00",
-        "title": "Laravel&nbsp;1",
+        "title": "Laravel 1",
         "href": "https://web.archive.org/web/20121025115805/http://forums.laravel.com/viewtopic.php?id=1",
         "description": "TODO text",
         "comment": ""
@@ -914,7 +914,7 @@
     {
         "priority": 2,
         "date": "2011-04-18T00:00:00+00:00",
-        "title": "Guzzle&nbsp;1.0",
+        "title": "Guzzle 1.0",
         "href": "https://github.com/guzzle/guzzle3/releases/tag/v1.0.0",
         "description": "TODO text",
         "comment": ""
@@ -922,7 +922,7 @@
     {
         "priority": 3,
         "date": "2011-01-28T00:00:00+00:00",
-        "title": "CodeIgniter&nbsp;2",
+        "title": "CodeIgniter 2",
         "href": "https://web.archive.org/web/20110805025800/http://codeigniter.com/news/codeigniter_2.0.0_released/",
         "description": "",
         "comment": ""
@@ -938,7 +938,7 @@
     {
         "priority": 2,
         "date": "2010-12-21T00:00:00+00:00",
-        "title": "Doctrine&nbsp;1.0 Released",
+        "title": "Doctrine 1.0 Released",
         "href": "https://www.doctrine-project.org/2008/09/01/doctrine-1-0-released.html",
         "description": "",
         "comment": ""
@@ -948,13 +948,13 @@
         "date": "2010-12-01T00:00:00+00:00",
         "title": "FastCGI Process Manager (FPM)",
         "href": "https://php-fpm.org/about/",
-        "description": "FPM (FastCGI Process Manager) is an alternative PHP FastCGI implementation with some additional features (mostly) useful for heavy-loaded sites and was merged in PHP&nbsp;5.3 codebase in 2010.",
+        "description": "FPM (FastCGI Process Manager) is an alternative PHP FastCGI implementation with some additional features (mostly) useful for heavy-loaded sites and was merged in PHP 5.3 codebase in 2010.",
         "comment": "Date unknown"
     },
     {
         "priority": 2,
         "date": "2010-11-02T00:00:00+00:00",
-        "title": "Slim&nbsp;1",
+        "title": "Slim 1",
         "href": "TODO link",
         "description": "TODO text",
         "comment": ""
@@ -978,7 +978,7 @@
     {
         "priority": 1,
         "date": "2010-05-27T00:00:00+00:00",
-        "title": "PhpStorm&nbsp;1.0 Released",
+        "title": "PhpStorm 1.0 Released",
         "href": "https://blog.jetbrains.com/phpstorm/2010/05/phpstorm-1-0-webstorm-1-0-are-public-it-is-official/",
         "description": "TODO text",
         "comment": ""
@@ -986,7 +986,7 @@
     {
         "priority": 3,
         "date": "2010-03-11T00:00:00+00:00",
-        "title": "PHP&nbsp;6 officially abandoned",
+        "title": "PHP 6 officially abandoned",
         "href": "https://news-web.php.net/php.internals/47120",
         "description": "TODO text https://lwn.net/Articles/379909/",
         "comment": ""
@@ -1002,7 +1002,7 @@
     {
         "priority": 3,
         "date": "2009-09-17T00:00:00+00:00",
-        "title": "Kohana&nbsp;3",
+        "title": "Kohana 3",
         "href": "https://github.com/kohana/kohana/releases/tag/3.0",
         "description": "",
         "comment": ""
@@ -1010,7 +1010,7 @@
     {
         "priority": 1,
         "date": "2009-06-30T00:00:00+00:00",
-        "title": "PHP&nbsp;5.3",
+        "title": "PHP 5.3",
         "href": "https://www.php.net/releases/5_3_0.php",
         "description": "The release braught so anticipated support for namespaces, late static binding, and anonymous functions that finally made PHP a mature language. Other new features included garbage collection for cyclic references, ternary operator, and new extensions (like ext/phar, ext/intl and ext/fileinfo).",
         "comment": ""
@@ -1026,7 +1026,7 @@
     {
         "priority": 2,
         "date": "2008-12-03T00:00:00+00:00",
-        "title": "Yii&nbsp;version&nbsp;1",
+        "title": "Yii version 1",
         "href": "https://web.archive.org/web/20081007231834/http://www.yiiframework.com:80/",
         "description": "TODO text",
         "comment": ""
@@ -1034,9 +1034,9 @@
     {
         "priority": 2,
         "date": "2008-01-25T00:00:00+00:00",
-        "title": "PHP&nbsp;6 Book",
+        "title": "PHP 6 Book",
         "href": "https://www.amazon.com/dp/1598634712/ref=rdr_ext_tmb?creativeASIN=1598634712&linkCode=w61&imprToken=53-QXo22dxa0y6EEZCvQEA&slotNum=0",
-        "description": "PHP&nbsp;6 was never released but the book \"Fast and Easy Web Development.\" is still available on the Internet.",
+        "description": "PHP 6 was never released but the book \"Fast and Easy Web Development.\" is still available on the Internet.",
         "comment": ""
     },
     {
@@ -1050,7 +1050,7 @@
     {
         "priority": 1,
         "date": "2007-07-18T00:00:00+00:00",
-        "title": "Xdebug&nbsp;2.0",
+        "title": "Xdebug 2.0",
         "href": "https://xdebug.org/updates#x_2_0_0",
         "description": "TODO text",
         "comment": ""
@@ -1058,7 +1058,7 @@
     {
         "priority": 2,
         "date": "2007-07-01T00:00:00+00:00",
-        "title": "Kohana&nbsp;1",
+        "title": "Kohana 1",
         "href": "http://kohanaframework.org/",
         "description": "",
         "comment": ""
@@ -1076,15 +1076,15 @@
         "date": "2006-11-11T00:00:00+00:00",
         "title": "PHP developers meeting in Paris",
         "href": "https://derickrethans.nl/files/meeting-notes.html",
-        "description": "PHP&nbsp;6 idea first discussed.",
+        "description": "PHP 6 idea first discussed.",
         "comment": ""
     },
     {
         "priority": 1,
         "date": "2006-11-02T00:00:00+00:00",
-        "title": "PHP&nbsp;5.2",
+        "title": "PHP 5.2",
         "href": "https://www.php.net/releases/5_2_0.php",
-        "description": "One of the main focuses was improving performance for heavy traffic web applications. With a new memory manager for the Zend Engine and new features such as input filtering, JSON extension, ZIP extension, hooks for tracking file upload progress, date and time objects PHP&nbsp;5.2 was a big success.",
+        "description": "One of the main focuses was improving performance for heavy traffic web applications. With a new memory manager for the Zend Engine and new features such as input filtering, JSON extension, ZIP extension, hooks for tracking file upload progress, date and time objects PHP 5.2 was a big success.",
         "comment": ""
     },
     {
@@ -1098,7 +1098,7 @@
     {
         "priority": 1,
         "date": "2006-02-25T00:00:00+00:00",
-        "title": "CodeIgniter&nbsp;1",
+        "title": "CodeIgniter 1",
         "href": "https://web.archive.org/web/20060303085547/http://www.codeigniter.com:80/",
         "description": "TODO text",
         "comment": ""
@@ -1106,9 +1106,9 @@
     {
         "priority": 1,
         "date": "2005-11-24T00:00:00+00:00",
-        "title": "PHP&nbsp;5.1",
+        "title": "PHP 5.1",
         "href": "https://www.php.net/releases/5_1_0.php",
-        "description": "PHP&nbsp;5.1's new features included a complete rewrite of date handling code, with improved timezone support, significant performance improvements compared to PHP&nbsp;5.0. The PDO extension was enabled by default since then.",
+        "description": "PHP 5.1's new features included a complete rewrite of date handling code, with improved timezone support, significant performance improvements compared to PHP 5.0. The PDO extension was enabled by default since then.",
         "comment": ""
     },
     {
@@ -1116,13 +1116,13 @@
         "date": "2005-10-18T00:00:00+00:00",
         "title": "Symfony project kicked off",
         "href": "https://web.archive.org/web/20051023011952/http://www.symfony-project.com/",
-        "description": "Fabien Potencier made the first import of the Symfony&nbsp;1 code to the Subversion repository (see <a href=\"https://web.archive.org/web/20080915154420/http://trac.symfony-project.org/changeset/1\">changeset</a>).",
+        "description": "Fabien Potencier made the first import of the Symfony 1 code to the Subversion repository (see <a href=\"https://web.archive.org/web/20080915154420/http://trac.symfony-project.org/changeset/1\">changeset</a>).",
         "comment": ""
     },
     {
         "priority": 1,
         "date": "2005-08-10T00:00:00+00:00",
-        "title": "PHP&nbsp;6 With Unicode Support Initiated",
+        "title": "PHP 6 With Unicode Support Initiated",
         "href": "https://marc.info/?l=php-internals&m=112365908921757&w=1",
         "description": "https://news-web.php.net/php.internals/17668",
         "comment": ""
@@ -1138,7 +1138,7 @@
     {
         "priority": 2,
         "date": "2005-03-15T00:00:00+00:00",
-        "title": "PRADO&nbsp;2",
+        "title": "PRADO 2",
         "href": "https://web.archive.org/web/20060322070507/http://www.xisc.com/forum/viewtopic.php?t=1044",
         "description": "",
         "comment": ""
@@ -1146,17 +1146,17 @@
     {
         "priority": 1,
         "date": "2004-09-13T00:00:00+00:00",
-        "title": "PRADO&nbsp;version&nbsp;1",
+        "title": "PRADO version 1",
         "href": "https://web.archive.org/web/20060514124647/http://www.xisc.com/forum/viewtopic.php?t=7",
-        "description": "The first framework using PHP&nbsp;5.",
+        "description": "The first framework using PHP 5.",
         "comment": ""
     },
     {
         "priority": 1,
         "date": "2004-07-13T00:00:00+00:00",
-        "title": "PHP&nbsp;5.0",
+        "title": "PHP 5.0",
         "href": "https://news-web.php.net/php.announce/50",
-        "description": "Some of the key features of PHP&nbsp;5 included: - The Zend Engine II with a new object model; - New extensions: SimpleXML, SOAP, MySQLi, SQLite; - Greatly improved streams, including the ability to access  low-level socket operations.",
+        "description": "Some of the key features of PHP 5 included: - The Zend Engine II with a new object model; - New extensions: SimpleXML, SOAP, MySQLi, SQLite; - Greatly improved streams, including the ability to access  low-level socket operations.",
         "comment": ""
     },
     {
@@ -1172,13 +1172,13 @@
         "date": "2003-12-01T00:00:00+00:00",
         "title": "Dmitry Stogov Joined Zend",
         "href": "",
-        "description": "Dmitry joined Zend and helped develop most of the core PHP subsystems during PHP&nbsp;5's life. Later, Dmitry lead the PHPNG project, which brought the speed of PHP&nbsp;7 to a new level and helped contribute to the release's success. Currently, Dmitry works at Zend by Perforce as a Principal Engineer and leads the development of the JIT compiler for PHP.",
+        "description": "Dmitry joined Zend and helped develop most of the core PHP subsystems during PHP 5's life. Later, Dmitry lead the PHPNG project, which brought the speed of PHP 7 to a new level and helped contribute to the release's success. Currently, Dmitry works at Zend by Perforce as a Principal Engineer and leads the development of the JIT compiler for PHP.",
         "comment": ""
     },
     {
         "priority": 2,
         "date": "2003-10-22T00:00:00+00:00",
-        "title": "Mojavi&nbsp;1.0 ",
+        "title": "Mojavi 1.0 ",
         "href": "http://web.archive.org/web/20040520071127/http://www.mojavi.org/",
         "description": "",
         "comment": "???"
@@ -1290,9 +1290,9 @@
     {
         "priority": 1,
         "date": "2000-05-22T00:00:00+00:00",
-        "title": "PHP&nbsp;4.0",
+        "title": "PHP 4.0",
         "href": "https://news-web.php.net/php.announce/22",
-        "description": "By the winter of 1998, shortly after PHP&nbsp;3.0 was officially released, Andi Gutmans and Zeev Suraski had begun working on a rewrite of PHP's core. The design goals were to improve performance of complex applications, and improve the modularity of PHP's code base. Such applications were made possible by PHP&nbsp;3.0's new features and support for a wide variety of third party databases and APIs, but PHP&nbsp;3.0 was not designed to handle such complex applications efficiently. <br> The new engine, dubbed 'Zend Engine' (comprised of their first names, Zeev and Andi), met these design goals successfully, and was first introduced in mid 1999. PHP&nbsp;4.0, based on this engine, and coupled with a wide range of additional new features, was officially released in May 2000, almost two years after its predecessor. In addition to the highly improved performance of this version, PHP&nbsp;4.0 included other key features such as support for many more web servers, HTTP sessions, output buffering, more secure ways of handling user input and several new language constructs.",
+        "description": "By the winter of 1998, shortly after PHP 3.0 was officially released, Andi Gutmans and Zeev Suraski had begun working on a rewrite of PHP's core. The design goals were to improve performance of complex applications, and improve the modularity of PHP's code base. Such applications were made possible by PHP 3.0's new features and support for a wide variety of third party databases and APIs, but PHP 3.0 was not designed to handle such complex applications efficiently. <br> The new engine, dubbed 'Zend Engine' (comprised of their first names, Zeev and Andi), met these design goals successfully, and was first introduced in mid 1999. PHP 4.0, based on this engine, and coupled with a wide range of additional new features, was officially released in May 2000, almost two years after its predecessor. In addition to the highly improved performance of this version, PHP 4.0 included other key features such as support for many more web servers, HTTP sessions, output buffering, more secure ways of handling user input and several new language constructs.",
         "comment": ""
     },
     {
@@ -1346,9 +1346,9 @@
     {
         "priority": 1,
         "date": "1998-06-06T00:00:00+00:00",
-        "title": "PHP&nbsp;3.0",
+        "title": "PHP 3.0",
         "href": "",
-        "description": "PHP&nbsp;3.0 was the first version that closely resembles PHP as it exists today.  In June, 1998, with many new developers from around the world joining the effort, PHP&nbsp;3.0 was announced by the new PHP Development Team as the official successor to PHP/FI&nbsp;2.0. Active development of PHP/FI&nbsp;2.0, which had all-but ceased as of November of the previous year, was now officially ended. After roughly nine months of open public testing, when the announcement of the official release of PHP&nbsp;3.0 came, it was already installed on over 70,000 domains around the world, and was no longer limited to POSIX-compliant operating systems. A relatively small share of the domains reporting PHP as installed were hosted on servers running Windows 95, 98, and NT, and Macintosh. At its peak, PHP 3.0 was installed on approximately 10% of the web servers on the Internet.",
+        "description": "PHP 3.0 was the first version that closely resembles PHP as it exists today.  In June, 1998, with many new developers from around the world joining the effort, PHP 3.0 was announced by the new PHP Development Team as the official successor to PHP/FI 2.0. Active development of PHP/FI 2.0, which had all-but ceased as of November of the previous year, was now officially ended. After roughly nine months of open public testing, when the announcement of the official release of PHP 3.0 came, it was already installed on over 70,000 domains around the world, and was no longer limited to POSIX-compliant operating systems. A relatively small share of the domains reporting PHP as installed were hosted on servers running Windows 95, 98, and NT, and Macintosh. At its peak, PHP 3.0 was installed on approximately 10% of the web servers on the Internet.",
         "comment": ""
     },
     {
@@ -1372,7 +1372,7 @@
         "date": "1998-04-01T00:00:00+00:00",
         "title": "First PHP Book: \"Tvorba interaktivních internetových aplikací\"",
         "href": "https://www.databazeknih.cz/knihy/php-tvorba-interaktivnich-internetovych-aplikaci-230573",
-        "description": "The first book dedicated to PHP was 'PHP - tvorba interaktivních internetových aplikací' (PHP - Creating Interactive Internet Applications) - a Czech book published in April 1999, authored by Jirka Kosek. Next month followed a German book authored by Egon Schmid, Christian Cartus and Richard Blume. The first book in English about PHP was published shortly afterwards, and was 'Core PHP Programming' by Leon Atkinson. These books covered PHP&nbsp;3.0.",
+        "description": "The first book dedicated to PHP was 'PHP - tvorba interaktivních internetových aplikací' (PHP - Creating Interactive Internet Applications) - a Czech book published in April 1999, authored by Jirka Kosek. Next month followed a German book authored by Egon Schmid, Christian Cartus and Richard Blume. The first book in English about PHP was published shortly afterwards, and was 'Core PHP Programming' by Leon Atkinson. These books covered PHP 3.0.",
         "comment": ""
     },
     {
@@ -1380,15 +1380,15 @@
         "date": "1997-12-01T00:00:00+00:00",
         "title": "Andi Gutmans & Zeev Suraski Joined the Project",
         "href": "",
-        "description": "Andi Gutmans and Zeev Suraski began yet another complete rewrite of the underlying parser in 1997. Andi, Rasmus, and Zeev decided to collaborate in the development of a new, independent programming language. This entirely new language was released under a new name, that removed the implication of limited personal use that the PHP/FI&nbsp;2.0 name held. It was renamed simply 'PHP', with the meaning becoming a recursive acronym – PHP: Hypertext Preprocessor.",
+        "description": "Andi Gutmans and Zeev Suraski began yet another complete rewrite of the underlying parser in 1997. Andi, Rasmus, and Zeev decided to collaborate in the development of a new, independent programming language. This entirely new language was released under a new name, that removed the implication of limited personal use that the PHP/FI 2.0 name held. It was renamed simply 'PHP', with the meaning becoming a recursive acronym – PHP: Hypertext Preprocessor.",
         "comment": "Date unknown"
     },
     {
         "priority": 1,
         "date": "1997-11-01T00:00:00+00:00",
-        "title": "PHP&nbsp;2.0",
+        "title": "PHP 2.0",
         "href": "",
-        "description": "PHP/FI was given a version 2.0 status. An interesting fact about this, however, is that there was only one single full version of PHP&nbsp;2.0. When it finally graduated from beta status in November, 1997, the underlying parsing engine was already being entirely rewritten.",
+        "description": "PHP/FI was given a version 2.0 status. An interesting fact about this, however, is that there was only one single full version of PHP 2.0. When it finally graduated from beta status in November, 1997, the underlying parsing engine was already being entirely rewritten.",
         "comment": ""
     },
     {
@@ -1418,9 +1418,9 @@
     {
         "priority": 1,
         "date": "1995-06-08T00:00:00+00:00",
-        "title": "PHP&nbsp;Tools – the Birth of PHP",
+        "title": "PHP Tools – the Birth of PHP",
         "href": "https://groups.google.com/forum/#!msg/comp.infosystems.www.authoring.cgi/PyJ25gZ6z7A/M9FkTUVDfcwJ",
-        "description": "In June 1995 Rasmus announced and released PHP&nbsp;Tools to the public.",
+        "description": "In June 1995 Rasmus announced and released PHP Tools to the public.",
         "comment": ""
     },
     {
