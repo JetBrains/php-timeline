@@ -28,7 +28,7 @@
         "date": "2020-03-16T00:00:00+00:00",
         "title": "PHP to have str_contains()",
         "href": "https://wiki.php.net/rfc/str_contains",
-        "description": "Estimates are hard...<br> A function that checks if a string is contained in another string? That should only take about 25 years.",
+        "description": "A function that checks if a string is contained in another string? <br>That should only take about 25 years.",
         "comment": ""
     },
     {
@@ -244,7 +244,7 @@
         "date": "2018-04-13T00:00:00+00:00",
         "title": "PHP FFI announced",
         "href": "https://externals.io/message/102036",
-        "description": "TODO text",
+        "description": "",
         "comment": ""
     },
     {
@@ -260,7 +260,7 @@
         "date": "2018-02-22T00:00:00+00:00",
         "title": "Psalm 1.0",
         "href": "https://github.com/vimeo/psalm/releases/tag/1.0.0",
-        "description": "TODO text",
+        "description": "",
         "comment": ""
     },
     {
@@ -731,7 +731,7 @@
         "priority": 1,
         "date": "2013-05-28T00:00:00+00:00",
         "title": "Laravel 4",
-        "href": "@TODO link",
+        "href": "https://web.archive.org/web/20130602115429/http://laravel.com/",
         "description": "Illuminate, also known as Laravel 4, is re-written from the ground up as a collection of components that integrate with each other to make up a framework. And that's <a href=\"https://maxoffsky.com/code-blog/history-of-laravel-php-framework-eloquence-emerging/\">when the Facades come in</a>.",
         "comment": ""
     },
@@ -1154,7 +1154,7 @@
     {
         "priority": 1,
         "date": "2004-09-13T00:00:00+00:00",
-        "title": "PRADO version 1",
+        "title": "PRADO version 1",
         "href": "https://web.archive.org/web/20060514124647/http://www.xisc.com/forum/viewtopic.php?t=7",
         "description": "The first framework using PHP 5. Prado was inspired by Apache Tapestry, Borland Delphi, and Microsoft ASP.NET.",
         "comment": ""
@@ -1252,7 +1252,7 @@
         "date": "2001-11-27T00:00:00+00:00",
         "title": "Initial commit of PHPUnit",
         "href": "http://svn.php.net/viewvc?view=revision&revision=63330",
-        "description": "Sebastian Bergmann starts work on the <a href=\"https://todo/\">most used</a> PHP testing framework. It was inspired by SUnit and JUnit.",
+        "description": "Sebastian Bergmann starts work on the most used PHP testing framework. It was inspired by SUnit and JUnit.",
         "comment": ""
     },
     {
@@ -1332,7 +1332,7 @@
         "date": "2000-01-01T00:00:00+00:00",
         "title": "PHP Developers' Meeting",
         "href": "http://zsuraski.blogspot.com/2018/05/zendcon-openenterprise-2018.html#:~:text=1st%20%26%20only%20face%20to%20face%20meeting%20that%20included%20(almost)%20everyone%20who%20was%20working%20on%20PHP",
-        "description": "he first face-to-face meeting that includes (almost) everyone working on PHP and also the MySQL founders. <img src=\"https://4.bp.blogspot.com/-5ji0X40r_hM/Ww1kKlpeUiI/AAAAAAAInM0/M7knATV7sM44JMLX03VBvMwsGO134mg6wCLcBGAs/s1600/Picture1.jpg\" width=\"500\"> <br> <a href=\"https://twitter.com/rasmus/status/1259903214058528768\">How many people can you name?</a>",
+        "description": "The first face-to-face meeting that includes (almost) everyone working on PHP and also the MySQL founders. <img src=\"https://4.bp.blogspot.com/-5ji0X40r_hM/Ww1kKlpeUiI/AAAAAAAInM0/M7knATV7sM44JMLX03VBvMwsGO134mg6wCLcBGAs/s1600/Picture1.jpg\" width=\"500\"> <br> <a href=\"https://twitter.com/rasmus/status/1259903214058528768\">How many people can you name?</a>",
         "comment": ""
     },
     {
