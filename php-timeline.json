@@ -980,7 +980,7 @@
         "date": "2010-07-25T00:00:00+00:00",
         "title": "Unofficial PHP Anthem",
         "href": "http://shiflett.org/blog/2010/php-anthem",
-        "description": "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/34962316&color=%23ff5500&inverse=false&auto_play=false&show_user=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/itsleeowen\" title=\"ItsLeeOwen\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">ItsLeeOwen</a> · <a href=\"https://soundcloud.com/itsleeowen/php-anthem\" title=\"PHP Anthem\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">PHP Anthem</a></div>",
+        "description": "🎵",
         "comment": ""
     },
     {
@@ -1131,8 +1131,8 @@
         "priority": 1,
         "date": "2005-08-10T00:00:00+00:00",
         "title": "PHP 6 with unicode support initiated",
-        "href": "https://marc.info/?l=php-internals&m=112365908921757&w=1",
-        "description": "https://news-web.php.net/php.internals/17668",
+        "href": "https://externals.io/message/17668",
+        "description": "",
         "comment": ""
     },
     {
@@ -1308,7 +1308,7 @@
         "date": "2000-05-22T00:00:00+00:00",
         "title": "PHP 4.0",
         "href": "https://news-web.php.net/php.announce/22",
-        "description": "PHP 4 comes with a brand new “Zend Engine” core developed by Andi and Zeev. The design goals were to improve performance of complex applications, and to improve the modularity of PHP's codebase. In addition to greatly improved performance, PHP 4 included support for more web servers, HTTP sessions, output buffering, and several new language constructs.",
+        "description": "PHP 4 comes with a brand new “Zend Engine” core developed by Andi and Zeev. In addition to greatly improved performance, PHP 4 included support for more web servers, HTTP sessions, output buffering, and several new language constructs.",
         "comment": ""
     },
     {
@@ -1420,7 +1420,7 @@
         "date": "1995-10-01T00:00:00+00:00",
         "title": "Personal Home Page Construction Kit",
         "href": "",
-        "description": "In October 1995, Rasmus releases completely rewritten code. Bringing back the PHP name, it is now (briefly) named “Personal Home Page Construction Kit” and is the first release to boast what was considered at the time to be an advanced scripting interface.<br/>The language is deliberately designed to resemble C in structure, making it easy for developers familiar with C, Perl, and similar languages to adopt.",
+        "description": "Rasmus releases completely rewritten code. Bringing back the PHP name, it is now (briefly) named “Personal Home Page Construction Kit” and is the first release to boast what was considered at the time to be an advanced scripting interface.<br/>The language is deliberately designed to resemble C in structure, making it easy for developers familiar with C, Perl, and similar languages to adopt.",
         "comment": ""
     },
     {
@@ -1428,7 +1428,7 @@
         "date": "1995-09-01T00:00:00+00:00",
         "title": "FI",
         "href": "",
-        "description": "In September 1995, Rasmus expands upon PHP. For a short time he actually drops the PHP name. Now referring to the tools as FI (short for “Forms Interpreter”), the new implementation includes some basic functionality of PHP as we know it today.",
+        "description": "Rasmus expands upon PHP. For a short time he actually drops the PHP name. Now referring to the tools as FI (short for “Forms Interpreter”), the new implementation includes some basic functionality of PHP as we know it today.",
         "comment": ""
     },
     {
@@ -1436,7 +1436,7 @@
         "date": "1995-06-08T00:00:00+00:00",
         "title": "PHP Tools – the Birth of PHP",
         "href": "https://groups.google.com/forum/#!msg/comp.infosystems.www.authoring.cgi/PyJ25gZ6z7A/M9FkTUVDfcwJ",
-        "description": "In June 1995 Rasmus releases PHP Tools to the public.",
+        "description": "Rasmus releases PHP Tools to the public.",
         "comment": ""
     },
     {
