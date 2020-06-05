@@ -540,7 +540,7 @@
         "date": "2015-06-08T00:00:00+00:00",
         "title": "PHP turns 20",
         "href": "",
-        "description": "Many developers share their PHP stories to mark 20 years of PHP: <a href=\"http://ilia.ws/archives/290-Happy-belated-20th-PHP!.html\">Ilia Alshanetsky</a>, <a href=\"http://blog.calevans.com/2015/06/08/celebrating-20-years-of-php/\">Cal Evans</a>, <a href=\"http://littlehart.net/atthekeyboard/2015/06/08/php-created-this-monster/\">Chris Hartjes</a>, <a href=\"https://blog.bitexpert.de/blog/20-years-of-php/\">Stephan Hochdorfer</a>, <a href=\"http://blog.pascal-martin.fr/post/php-a-20-ans.html\">Pascal Martin</a>, <a href=\"http://benramsey.com/blog/2015/06/20-years-of-php/\">Ben Ramsey</a>, <a href=\"http://daveyshafik.com/archives/69164-celebrating-20-years-of-php.html\">Davey Shafik</a>, <a href=\"http://duodra.co/2015/06/08/my-story-with-php/\">Anderson Casimiro</a>, <a href=\"https://markrailton.com/blog/2015/06/08/20-years-of-php/\">Mark Railton</a>, <a href=\"http://blogs.aws.amazon.com/php/post/Tx21S0POQBSHFAG/HaPHPy-20th-Birthday-to-PHP\">AWS PHP SDK Blog</a>, <a href=\"http://amandafolson.net/blog/2015/06/08/twenty-years-of-php/\">Amanda Folson</a>, <a href=\"http://www.dragonbe.com/2015/06/20-years-of-php.html\">Michelangelo van Dam</a>, <a href=\"http://blog.krakjoe.ninja/2015/06/20-years-of-php.html\">Joe Watkins</a>, <a href=\"http://duodra.co/2015/06/08/minha-historia-com-php/\">Anderson Casimiro</a>, <a href=\"http://ctankersley.com/2015/06/08/20-years-of-php/\">Chris Tankersley</a>, <a href=\"http://blog.shameerc.com/2015/06/haphpy-20th-birthday-php\">Shameer C</a>, <a href=\"http://tudorbarbu.ninja/20-years-of-php/\">Tudor Barbu</a>, <a href=\"http://www.erikaheidi.com/blog/celebrating-php-twenty-years\">Erika Heidi</a>, <a href=\"https://mwop.net/blog/2015-06-08-php-is-20.html\">Matthew Weier O'Phinney</a>, <a href=\"https://daveismyname.com/my-php-story-20-years-of-php-bp\">David Carr</a>, <a href=\"http://blog.doh.ms/2015/06/08/20-years-of-php-and-how-i-got-on-this-train/\">Rafael Dohms</a>, <a href=\"http://derickrethans.nl/20years-php.html\">Derick Rethans</a>, <a href=\"http://techblog.wimgodden.be/2015/06/08/a-happy-20-years/\">Wim Godden</a>, <a href=\"http://www.hauser-wenz.de/s9y/index.php?/archives/294-20-Years-of-PHP!.html\">Christian Wenz</a>, <a href=\"http://oscarm.org/2015/06/20-years-of-php/\">Oscar Merida</a>, <a href=\"http://www.patrickstephan.me/post/20-years-with-PHP.html\">Patrick Stephan</a>, <a href=\"http://akrabat.com/20-years-of-php/\">Rob Allen</a>, <a href=\"http://www.matthewsetter.com/happy-20th-birthday-php/\">Matthew Setter</a>, <a href=\"http://www.praterraines.co.uk/news/2015/0000041/my-php-story\">Matt Raines</a>, <a href=\"http://www.justincarmony.com/blog/2015/06/08/happy-birthday-php/\">Justin Carmony</a>, <a href=\"http://blog.sheriframadan.com/20-years-of-PHP.html\">Sherif Ramadan</a>, <a href=\"http://bafford.com/2015/06/08/20-years-of-php\">John Bafford</a>, <a href=\"https://thephp.cc/news/2015/06/20-years-of-php-sb\">thePHP.cc</a>.",
+        "description": "Many developers share their PHP stories to mark 20 years of PHP: <a href=\"http://ilia.ws/archives/290-Happy-belated-20th-PHP!.html\">Ilia Alshanetsky</a>, <a href=\"http://blog.calevans.com/2015/06/08/celebrating-20-years-of-php/\">Cal Evans</a>, <a href=\"http://littlehart.net/atthekeyboard/2015/06/08/php-created-this-monster/\">Chris Hartjes</a>, <a href=\"https://blog.bitexpert.de/blog/20-years-of-php/\">Stephan Hochdorfer</a>, <a href=\"http://benramsey.com/blog/2015/06/20-years-of-php/\">Ben Ramsey</a>, <a href=\"http://daveyshafik.com/archives/69164-celebrating-20-years-of-php.html\">Davey Shafik</a>, <a href=\"http://blogs.aws.amazon.com/php/post/Tx21S0POQBSHFAG/HaPHPy-20th-Birthday-to-PHP\">AWS PHP SDK Blog</a>, <a href=\"http://amandafolson.net/blog/2015/06/08/twenty-years-of-php\">Amanda Folson</a>, <a href=\"http://www.dragonbe.com/2015/06/20-years-of-php.html\">Michelangelo van Dam</a>, <a href=\"http://blog.krakjoe.ninja/2015/06/20-years-of-php.html\">Joe Watkins</a>, <a href=\"http://ctankersley.com/2015/06/08/20-years-of-php/\">Chris Tankersley</a>, <a href=\"http://blog.shameerc.com/2015/06/haphpy-20th-birthday-php\">Shameer C</a>, <a href=\"http://www.erikaheidi.com/blog/celebrating-twenty-years-of-php/\">Erika Heidi</a>, <a href=\"https://mwop.net/blog/2015-06-08-php-is-20.html\">Matthew Weier O'Phinney</a>, <a href=\"https://dcblog.dev/my-php-story-20-years-of-php\">David Carr</a>, <a href=\"http://blog.doh.ms/2015/06/08/20-years-of-php-and-how-i-got-on-this-train/\">Rafael Dohms</a>, <a href=\"http://derickrethans.nl/20years-php.html\">Derick Rethans</a>, <a href=\"http://techblog.wimgodden.be/2015/06/08/a-happy-20-years/\">Wim Godden</a>, <a href=\"http://oscarm.org/2015/06/20-years-of-php/\">Oscar Merida</a>, <a href=\"http://www.patrickstephan.me/post/20-years-with-PHP.html\">Patrick Stephan</a>, <a href=\"http://akrabat.com/20-years-of-php/\">Rob Allen</a>, <a href=\"http://www.matthewsetter.com/happy-20th-birthday-php/\">Matthew Setter</a>, <a href=\"http://www.praterraines.co.uk/news/2015/0000041/my-php-story\">Matt Raines</a>, <a href=\"http://www.justincarmony.com/blog/2015/06/08/happy-birthday-php/\">Justin Carmony</a>, <a href=\"http://bafford.com/2015/06/08/20-years-of-php\">John Bafford</a>, <a href=\"https://thephp.cc/news/2015/06/20-years-of-php-sb\">thePHP.cc</a>.",
         "comment": ""
     },
     {
@@ -563,7 +563,7 @@
         "priority": 2,
         "date": "2015-03-22T00:00:00+00:00",
         "title": "CakePHP 3",
-        "href": "https://bakery.cakephp.org/articles/lorenzo/2015/03/22/cakephp_3_0_0_is_here",
+        "href": "https://web.archive.org/web/20150324162704/https://bakery.cakephp.org/articles/lorenzo/2015/03/22/cakephp_3_0_0_is_here",
         "description": "",
         "comment": ""
     },
@@ -643,7 +643,7 @@
         "priority": 3,
         "date": "2014-05-06T00:00:00+00:00",
         "title": "Codeception 2.0",
-        "href": "https://codeception.com/06-05-2014/codeception-2.0-final",
+        "href": "https://codeception.com/06-06-2014/codeception-2.0-final.html",
         "description": "",
         "comment": ""
     },
@@ -651,7 +651,7 @@
         "priority": 3,
         "date": "2014-04-01T00:00:00+00:00",
         "title": "Last release of Kohana — R.I.P.",
-        "href": "http://forum.kohanaframework.org/discussion/12509/final-releases-of-kohana-beginning-of-ohanzee",
+        "href": "https://web.archive.org/web/20140411235408/http://forum.kohanaframework.org/discussion/12509/final-releases-of-kohana-beginning-of-ohanzee",
         "description": "",
         "comment": ""
     },
@@ -939,7 +939,7 @@
         "priority": 2,
         "date": "2011-01-04T00:00:00+00:00",
         "title": "FuelPHP",
-        "href": "https://philsturgeon.uk/blog/2011/01/introducing-fuelphp/",
+        "href": "https://web.archive.org/web/20140717000510/https://philsturgeon.uk/blog/2011/01/introducing-fuelphp/",
         "description": "The framework based on the best parts of CodeIgniter and Kohana, with some nifty features from Rails and a whole load of new ideas.",
         "comment": ""
     },
