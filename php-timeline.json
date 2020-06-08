@@ -108,7 +108,7 @@
         "date": "2019-08-08T00:00:00+00:00",
         "title": "P++ discussion",
         "href": "https://externals.io/message/106453",
-        "description": "The controversy and accusations in PHP Internals over the removal of short tags and other discussions eventually results in a proposal from Zeev Suraski to create a new PHP dialect called P++, like C++ for C. Under this proposal, PHP and P++ would be developed side by side within a single runtime. But after a <a href=\"https://wiki.php.net/rfc/p-plus-plus\">straw poll</a>, the initiative is abandoned.",
+        "description": "The controversy, accusations in PHP Internals over the removal of short tags and other discussions eventually result in a proposal from Zeev Suraski to create a new PHP dialect called P++, like C++ for C. Under this proposal, PHP and P++ would be developed side by side within a single runtime. But after a <a href=\"https://wiki.php.net/rfc/p-plus-plus\">straw poll</a>, the initiative is abandoned.",
         "comment": ""
     },
     {
