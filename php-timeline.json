@@ -76,7 +76,7 @@
         "date": "2019-11-28T00:00:00+00:00",
         "title": "PHP 7.4",
         "href": "https://www.php.net/releases/7_4_0.php",
-        "description": "Typed properties, arrow functions, numeric literal separator, FFI, and OPcache preloading.",
+        "description": "Typed properties, arrow functions, numeric literal separator, FFI, and OPcache preloading.",
         "comment": ""
     },
     {
@@ -172,7 +172,7 @@
         "date": "2019-01-11T00:00:00+00:00",
         "title": "Nikita Popov joins PhpStorm team",
         "href": "https://blog.jetbrains.com/phpstorm/2019/01/nikita-popov-joins-phpstorm-team/",
-        "description": "A well-known and long-time contributor to the PHP ecosystem joins JetBrains to work with the PhpStorm team on improving the PHP language and ecosystem.",
+        "description": "A well-known and long-time contributor to the PHP ecosystem joins JetBrains to work with the PhpStorm team on improving the PHP language and ecosystem.",
         "comment": ""
     },
     {
@@ -212,7 +212,7 @@
         "date": "2018-10-17T00:00:00+00:00",
         "title": "Zeev Suraski leaves Zend",
         "href": "http://zsuraski.blogspot.com/2018/10/the-future-of-zend-engine-and-zend.html",
-        "description": "Zeev Suraski is the second of Zend’s two founders to leave the company. <a href=\"https://mwop.net/blog/2018-10-17-long-live-zf.html\">Matthew Weier O'Phinney</a> and <a href=\"https://www.linkedin.com/pulse/future-zend-framework-enrico-zimuel/\">Enrico Zimuel</a> also leave.",
+        "description": "Zeev Suraski is the second of Zend’s two founders to leave the company. <a href=\"https://mwop.net/blog/2018-10-17-long-live-zf.html\">Matthew Weier O’Phinney</a> and <a href=\"https://www.linkedin.com/pulse/future-zend-framework-enrico-zimuel/\">Enrico Zimuel</a> also leave.",
         "comment": ""
     },
     {
@@ -268,7 +268,7 @@
         "date": "2018-01-22T00:00:00+00:00",
         "title": "PSR-15 HTTP Server Request Handlers accepted",
         "href": "https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md",
-        "description": "The standard lays out how to write request handlers and middleware in PHP.",
+        "description": "The standard lays out how to write request handlers and middleware in PHP.",
         "comment": ""
     },
     {
@@ -282,7 +282,7 @@
     {
         "priority": 3,
         "date": "2017-12-07T00:00:00+00:00",
-        "title": "Keep it simple stupid: RemoteOK.io is a single “index.php” file generating $2,342 a day. No frameworks. No libraries.",
+        "title": "Keep it simple stupid: RemoteOK.io is a single “index.php” file generating $2,342 a day. No frameworks. No libraries.",
         "href": "https://twitter.com/levelsio/status/938707166508154880",
         "description": "",
         "comment": ""
@@ -300,13 +300,13 @@
         "date": "2017-11-30T00:00:00+00:00",
         "title": "PHP 7.2",
         "href": "https://www.php.net/releases/7_2_0.php",
-        "description": "PHP becomes the first programming language with modern cryptography in its standard library thanks to the bundled <code>libsodium</code>. It also brings <code>object</code> typehint and parameter type widening.",
+        "description": "PHP becomes the first programming language with modern cryptography in its standard library thanks to the bundled <code>libsodium</code>. It also brings <code>object</code> typehint and parameter type widening.",
         "comment": ""
     },
     {
         "priority": 2,
         "date": "2017-09-18T00:00:00+00:00",
-        "title": "HHVM's last release that commits to PHP support",
+        "title": "HHVM’s last release that commits to PHP support",
         "href": "https://hhvm.com/blog/2017/09/18/the-future-of-hhvm.html",
         "description": "",
         "comment": ""
@@ -492,7 +492,7 @@
         "date": "2015-12-03T00:00:00+00:00",
         "title": "PHP 7.0",
         "href": "https://www.php.net/releases/7_0_0.php",
-        "description": "A major language renewal comes with the new Zend Engine 3 (PHPNG), numerous improvements and new features. It's also twice as fast as the previous PHP 5.6 release!",
+        "description": "A major language renewal comes with the new Zend Engine 3 (PHPNG), numerous improvements and new features. It’s also twice as fast as the previous PHP 5.6 release!",
         "comment": ""
     },
     {
@@ -540,7 +540,7 @@
         "date": "2015-06-08T00:00:00+00:00",
         "title": "PHP turns 20",
         "href": "",
-        "description": "Many developers share their PHP stories to mark 20 years of PHP: <a href=\"http://ilia.ws/archives/290-Happy-belated-20th-PHP!.html\">Ilia Alshanetsky</a>, <a href=\"http://blog.calevans.com/2015/06/08/celebrating-20-years-of-php/\">Cal Evans</a>, <a href=\"http://littlehart.net/atthekeyboard/2015/06/08/php-created-this-monster/\">Chris Hartjes</a>, <a href=\"https://blog.bitexpert.de/blog/20-years-of-php/\">Stephan Hochdorfer</a>, <a href=\"http://benramsey.com/blog/2015/06/20-years-of-php/\">Ben Ramsey</a>, <a href=\"http://daveyshafik.com/archives/69164-celebrating-20-years-of-php.html\">Davey Shafik</a>, <a href=\"http://blogs.aws.amazon.com/php/post/Tx21S0POQBSHFAG/HaPHPy-20th-Birthday-to-PHP\">AWS PHP SDK Blog</a>, <a href=\"http://amandafolson.net/blog/2015/06/08/twenty-years-of-php\">Amanda Folson</a>, <a href=\"http://www.dragonbe.com/2015/06/20-years-of-php.html\">Michelangelo van Dam</a>, <a href=\"http://blog.krakjoe.ninja/2015/06/20-years-of-php.html\">Joe Watkins</a>, <a href=\"http://ctankersley.com/2015/06/08/20-years-of-php/\">Chris Tankersley</a>, <a href=\"http://blog.shameerc.com/2015/06/haphpy-20th-birthday-php\">Shameer C</a>, <a href=\"http://www.erikaheidi.com/blog/celebrating-twenty-years-of-php/\">Erika Heidi</a>, <a href=\"https://mwop.net/blog/2015-06-08-php-is-20.html\">Matthew Weier O'Phinney</a>, <a href=\"https://dcblog.dev/my-php-story-20-years-of-php\">David Carr</a>, <a href=\"http://blog.doh.ms/2015/06/08/20-years-of-php-and-how-i-got-on-this-train/\">Rafael Dohms</a>, <a href=\"http://derickrethans.nl/20years-php.html\">Derick Rethans</a>, <a href=\"http://techblog.wimgodden.be/2015/06/08/a-happy-20-years/\">Wim Godden</a>, <a href=\"http://oscarm.org/2015/06/20-years-of-php/\">Oscar Merida</a>, <a href=\"http://www.patrickstephan.me/post/20-years-with-PHP.html\">Patrick Stephan</a>, <a href=\"http://akrabat.com/20-years-of-php/\">Rob Allen</a>, <a href=\"http://www.matthewsetter.com/happy-20th-birthday-php/\">Matthew Setter</a>, <a href=\"http://www.praterraines.co.uk/news/2015/0000041/my-php-story\">Matt Raines</a>, <a href=\"http://www.justincarmony.com/blog/2015/06/08/happy-birthday-php/\">Justin Carmony</a>, <a href=\"http://bafford.com/2015/06/08/20-years-of-php\">John Bafford</a>, <a href=\"https://thephp.cc/news/2015/06/20-years-of-php-sb\">thePHP.cc</a>.",
+        "description": "Many developers share their PHP stories to mark 20 years of PHP: <a href=\"http://ilia.ws/archives/290-Happy-belated-20th-PHP!.html\">Ilia Alshanetsky</a>, <a href=\"http://blog.calevans.com/2015/06/08/celebrating-20-years-of-php/\">Cal Evans</a>, <a href=\"http://littlehart.net/atthekeyboard/2015/06/08/php-created-this-monster/\">Chris Hartjes</a>, <a href=\"https://blog.bitexpert.de/blog/20-years-of-php/\">Stephan Hochdorfer</a>, <a href=\"http://benramsey.com/blog/2015/06/20-years-of-php/\">Ben Ramsey</a>, <a href=\"http://daveyshafik.com/archives/69164-celebrating-20-years-of-php.html\">Davey Shafik</a>, <a href=\"http://blogs.aws.amazon.com/php/post/Tx21S0POQBSHFAG/HaPHPy-20th-Birthday-to-PHP\">AWS PHP SDK Blog</a>, <a href=\"http://amandafolson.net/blog/2015/06/08/twenty-years-of-php\">Amanda Folson</a>, <a href=\"http://www.dragonbe.com/2015/06/20-years-of-php.html\">Michelangelo van Dam</a>, <a href=\"http://blog.krakjoe.ninja/2015/06/20-years-of-php.html\">Joe Watkins</a>, <a href=\"http://ctankersley.com/2015/06/08/20-years-of-php/\">Chris Tankersley</a>, <a href=\"http://blog.shameerc.com/2015/06/haphpy-20th-birthday-php\">Shameer C</a>, <a href=\"http://www.erikaheidi.com/blog/celebrating-twenty-years-of-php/\">Erika Heidi</a>, <a href=\"https://mwop.net/blog/2015-06-08-php-is-20.html\">Matthew Weier O’Phinney</a>, <a href=\"https://dcblog.dev/my-php-story-20-years-of-php\">David Carr</a>, <a href=\"http://blog.doh.ms/2015/06/08/20-years-of-php-and-how-i-got-on-this-train/\">Rafael Dohms</a>, <a href=\"http://derickrethans.nl/20years-php.html\">Derick Rethans</a>, <a href=\"http://techblog.wimgodden.be/2015/06/08/a-happy-20-years/\">Wim Godden</a>, <a href=\"http://oscarm.org/2015/06/20-years-of-php/\">Oscar Merida</a>, <a href=\"http://www.patrickstephan.me/post/20-years-with-PHP.html\">Patrick Stephan</a>, <a href=\"http://akrabat.com/20-years-of-php/\">Rob Allen</a>, <a href=\"http://www.matthewsetter.com/happy-20th-birthday-php/\">Matthew Setter</a>, <a href=\"http://www.praterraines.co.uk/news/2015/0000041/my-php-story\">Matt Raines</a>, <a href=\"http://www.justincarmony.com/blog/2015/06/08/happy-birthday-php/\">Justin Carmony</a>, <a href=\"http://bafford.com/2015/06/08/20-years-of-php\">John Bafford</a>, <a href=\"https://thephp.cc/news/2015/06/20-years-of-php-sb\">thePHP.cc</a>.",
         "comment": ""
     },
     {
@@ -548,7 +548,7 @@
         "date": "2015-05-18T00:00:00+00:00",
         "title": "PSR-7 HTTP Message Interfaces accepted",
         "href": "https://mwop.net/blog/2015-05-18-psr-7-accepted.html",
-        "description": "The standard finally settled on how to deal with HTTP requests and responses the OOP way.",
+        "description": "The standard finally settled on how to deal with HTTP requests and responses the OOP way.",
         "comment": ""
     },
     {
@@ -620,7 +620,7 @@
         "date": "2014-07-30T00:00:00+00:00",
         "title": "PHP Language Specification",
         "href": "https://github.com/php/php-langspec/blob/master/spec/00-specification-for-php.md",
-        "description": "Despite its popularity and considerable age, PHP never had a formal specification until 2014. The specification was initially developed at Facebook and later all copyright was transferred to the public domain worldwide.",
+        "description": "Despite its popularity and considerable age, PHP never had a formal specification until 2014. The specification was initially developed at Facebook and later all copyright was transferred to the public domain worldwide.",
         "comment": ""
     },
     {
@@ -636,7 +636,7 @@
         "date": "2014-05-27T00:00:00+00:00",
         "title": "PHPNG First Announced",
         "href": "https://www.php.net/archive/2014.php#id2014-05-27-1",
-        "description": "First started with Dmitry Stogov's message in php.internals, a new generation PHP interpreter is introduced, which goes on to become the basis of PHP 7.",
+        "description": "First started with Dmitry Stogov’s message in php.internals, a new generation PHP interpreter is introduced, which goes on to become the basis of PHP 7.",
         "comment": ""
     },
     {
@@ -732,7 +732,7 @@
         "date": "2013-05-28T00:00:00+00:00",
         "title": "Laravel 4",
         "href": "https://web.archive.org/web/20130602115429/http://laravel.com/",
-        "description": "Illuminate, also known as Laravel 4, is re-written from the ground up as a collection of components that integrate with each other to make up a framework. And that's <a href=\"https://maxoffsky.com/code-blog/history-of-laravel-php-framework-eloquence-emerging/\">when the Facades come in</a>.",
+        "description": "Illuminate, also known as Laravel 4, is re-written from the ground up as a collection of components that integrate with each other to make up a framework. And that’s <a href=\"https://maxoffsky.com/code-blog/history-of-laravel-php-framework-eloquence-emerging/\">when the Facades come in</a>.",
         "comment": ""
     },
     {
@@ -972,7 +972,7 @@
         "date": "2010-08-01T00:00:00+00:00",
         "title": "PSR-0 accepted",
         "href": "https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md",
-        "description": "After receiving namespaces, PHP finally gets proper autoloading. Before this first PSR standard was accepted, PHP files were an insane mix of includes and requires.",
+        "description": "After receiving namespaces, PHP finally gets proper autoloading. Before this first PSR standard was accepted, PHP files were an insane mix of includes and requires.",
         "comment": "Date unknown"
     },
     {
@@ -988,7 +988,7 @@
         "date": "2010-05-27T00:00:00+00:00",
         "title": "PhpStorm 1.0 Released",
         "href": "https://web.archive.org/web/20101202152838/http://www.jetbrains.com/phpstorm/",
-        "description": "Previously known under its working name “Web IDE”, PhpStorm is released with support for Xdebug, PHPUnit, and Zend Framework.",
+        "description": "Previously known under its working name “Web IDE”, PhpStorm is released with support for Xdebug, PHPUnit, and Zend Framework.",
         "comment": ""
     },
     {
@@ -1004,7 +1004,7 @@
         "date": "2009-10-01T00:00:00+00:00",
         "title": "PHP-FIG",
         "href": "",
-        "description": "People from various PHP projects meet at <a href=\"https://tek.phparch.com/\">php|tek conference</a> in 2009, and that's when the idea of PHP-FIG (Framework Interoperability Group) group is born. The FIG's recommendations, called PSRs, drastically changed the landscape of the PHP ecosystem.",
+        "description": "People from various PHP projects meet at <a href=\"https://tek.phparch.com/\">php|tek conference</a> in 2009, and that’s when the idea of PHP-FIG (Framework Interoperability Group) group is born. The FIG’s recommendations, called PSRs, drastically changed the landscape of the PHP ecosystem.",
         "comment": "Date unknown"
     },
     {
@@ -1060,7 +1060,7 @@
         "date": "2007-07-18T00:00:00+00:00",
         "title": "Xdebug 2.0",
         "href": "https://derickrethans.nl/xdebug-2-released.html",
-        "description": "Improved stack traces, execution traces to files, code coverage analysis and much improved remote debugging support.",
+        "description": "Improved stack traces, execution traces to files, code coverage analysis and much improved remote debugging support.",
         "comment": ""
     },
     {
@@ -1076,7 +1076,7 @@
         "date": "2007-06-14T00:00:00+00:00",
         "title": "ElePHPant – the Furry PHP Mascot",
         "href": "https://web.archive.org/web/20070621023556/http://www.nexen.net/elephpant.php",
-        "description": "Brought into the world by <a href=\"https://twitter.com/faguo\">Damien Seguy</a> based on <a href=\"https://twitter.com/Elroubio\">Vincent Pontier</a>'s design.",
+        "description": "Brought into the world by <a href=\"https://twitter.com/faguo\">Damien Seguy</a> based on <a href=\"https://twitter.com/Elroubio\">Vincent Pontier</a>’s design.",
         "comment": ""
     },
     {
@@ -1092,7 +1092,7 @@
         "date": "2006-11-02T00:00:00+00:00",
         "title": "PHP 5.2",
         "href": "https://www.php.net/releases/5_2_0.php",
-        "description": "With a new memory manager for the Zend Engine and new features such as input filtering, JSON and ZIP extensions, tracking file upload progress, and date and time objects, PHP 5.2 was a big success and remained the most popular version until 2013.",
+        "description": "With a new memory manager for the Zend Engine and new features such as input filtering, JSON and ZIP extensions, tracking file upload progress, and date and time objects, PHP 5.2 was a big success and remained the most popular version until 2013.",
         "comment": ""
     },
     {
@@ -1100,7 +1100,7 @@
         "date": "2006-03-03T00:00:00+00:00",
         "title": "Zend Framework initial release",
         "href": "https://web.archive.org/web/20060404214442/http://framework.zend.com/",
-        "description": "Zend Framework was one of the first frameworks developed as a set of reusable components. It’s goal was “extreme simplicity” and “use-at-will architecture”. Released in 2005, it helped bring PHP into the enterprise market.",
+        "description": "Zend Framework was one of the first frameworks developed as a set of reusable components. It’s goal was “extreme simplicity” and “use-at-will architecture”. Released in 2005, it helped bring PHP into the enterprise market.",
         "comment": ""
     },
     {
@@ -1108,7 +1108,7 @@
         "date": "2006-02-25T00:00:00+00:00",
         "title": "CodeIgniter 1",
         "href": "https://web.archive.org/web/20060303085547/http://www.codeigniter.com:80/",
-        "description": "CodeIgniter was one of the first rapid development frameworks. Not only is it alive and popular to this day, it also inspired developers to produce many subsequent frameworks like Laravel, FuelPHP, Kohana, and Yii.",
+        "description": "CodeIgniter was one of the first rapid development frameworks. Not only is it alive and popular to this day, it also inspired developers to produce many subsequent frameworks like Laravel, FuelPHP, Kohana, and Yii.",
         "comment": ""
     },
     {
@@ -1116,7 +1116,7 @@
         "date": "2005-11-24T00:00:00+00:00",
         "title": "PHP 5.1",
         "href": "https://www.php.net/releases/5_1_0.php",
-        "description": "Completely rewritten date handling code with improved timezone support, PDO enabled by default, and significant performance improvements over PHP 5.0.",
+        "description": "Completely rewritten date handling code with improved timezone support, PDO enabled by default, and significant performance improvements over PHP 5.0.",
         "comment": ""
     },
     {
@@ -1180,7 +1180,7 @@
         "date": "2003-12-01T00:00:00+00:00",
         "title": "Dmitry Stogov Joined Zend",
         "href": "",
-        "description": "Dmitry joins Zend and helps develop most of the core PHP subsystems during PHP 5's life. Later, Dmitry will go on to lead the PHPNG project, which brings the speed of PHP 7 to a new level. Dmitry currently works at Zend by Perforce as a Principal Engineer and leads the development of the JIT compiler for PHP.",
+        "description": "Dmitry joins Zend and helps develop most of the core PHP subsystems during PHP 5’s life. Later, Dmitry will go on to lead the PHPNG project, which brings the speed of PHP 7 to a new level. Dmitry currently works at Zend by Perforce as a Principal Engineer and leads the development of the JIT compiler for PHP.",
         "comment": ""
     },
     {
@@ -1196,7 +1196,7 @@
         "date": "2003-05-27T00:00:00+00:00",
         "title": "First Release of WordPress",
         "href": "https://wordpress.org/news/2003/05/wordpress-now-available/",
-        "description": "The most popular CMS in the world first appears as a fork of b2. It used the same file structure as its predecessor, and continued the numbering from its last release, 0.6.<br>Major releases of WordPress are codenamed after well-known jazz musicians, starting from version 1.0.<br> Today, WordPress is used by more than one third of all websites on the internet.",
+        "description": "The most popular CMS in the world first appears as a fork of b2. It used the same file structure as its predecessor, and continued the numbering from its last release, 0.6. Major releases of WordPress are codenamed after well-known jazz musicians, starting from version 1.0.  Today, WordPress is used by more than one third of all websites on the internet.",
         "comment": ""
     },
     {
@@ -1204,7 +1204,7 @@
         "date": "2002-12-30T00:00:00+00:00",
         "title": "PHP Look Back by Derick Rethans",
         "href": "https://web.archive.org/web/20030401200540/https://www.derickrethans.nl/20021230.php",
-        "description": "<blockquote>On 11-Feb Erik was wondering if people who “keep telling me PHP is a dead end, it's in fact a dying language..” are just making it up or not.</blockquote> <br>Yeah, well, nothing has changed. PHP's unofficial slogan: Dying since 1995.",
+        "description": "<blockquote>On 11-Feb Erik was wondering if people who “keep telling me PHP is a dead end, it’s in fact a dying language..” are just making it up or not.</blockquote> <br>Yeah, well, nothing has changed. PHP’s unofficial slogan: Dying since 1995.",
         "comment": ""
     },
     {
@@ -1324,13 +1324,13 @@
         "date": "2000-03-01T00:00:00+00:00",
         "title": "PEAR Appeared",
         "href": "https://web.archive.org/web/20001017231542/http://pear.php.net/",
-        "description": "PEAR, the PHP Extension and Application Repository (originally PHP Extension and Add-on Repository) is PHP's version of foundation classes, and becomes one of the key ways to distribute PHP extensions among developers. PEAR was born from discussions held at the PHP Developers' Meeting (PDM) held in January 2000 in Tel Aviv.",
+        "description": "PEAR, the PHP Extension and Application Repository (originally PHP Extension and Add-on Repository) is PHP’s version of foundation classes, and becomes one of the key ways to distribute PHP extensions among developers. PEAR was born from discussions held at the PHP Developers’ Meeting (PDM) held in January 2000 in Tel Aviv.",
         "comment": "Date unknown"
     },
     {
         "priority": 2,
         "date": "2000-01-01T00:00:00+00:00",
-        "title": "PHP Developers' Meeting",
+        "title": "PHP Developers’ Meeting",
         "href": "http://zsuraski.blogspot.com/2018/05/zendcon-openenterprise-2018.html#:~:text=1st%20%26%20only%20face%20to%20face%20meeting%20that%20included%20(almost)%20everyone%20who%20was%20working%20on%20PHP",
         "description": "The first face-to-face meeting that includes (almost) everyone working on PHP and also the MySQL founders. <img src=\"https://4.bp.blogspot.com/-5ji0X40r_hM/Ww1kKlpeUiI/AAAAAAAInM0/M7knATV7sM44JMLX03VBvMwsGO134mg6wCLcBGAs/s1600/Picture1.jpg\" width=\"500\"> <br> <a href=\"https://twitter.com/rasmus/status/1259903214058528768\">How many people can you name?</a>",
         "comment": ""
@@ -1340,7 +1340,7 @@
         "date": "1999-01-01T00:00:00+00:00",
         "title": "Zend company founded",
         "href": "https://en.wikipedia.org/wiki/Zend_(company)",
-        "description": "The name Zend is a combination of Suraski's and Gutmans' forenames, Zeev and Andi. Zend has been a source of PHP innovations and development ever since its founding. It has contributed core improvements as well as userland packages and frameworks and development environment tooling.",
+        "description": "The name Zend is a combination of Suraski’s and Gutmans’ forenames, Zeev and Andi. Zend has been a source of PHP innovations and development ever since its founding. It has contributed core improvements as well as userland packages and frameworks and development environment tooling.",
         "comment": ""
     },
     {
@@ -1356,7 +1356,7 @@
         "date": "1998-09-09T00:00:00+00:00",
         "title": "phpMyAdmin project was “born”",
         "href": "https://www.phpmyadmin.net/15-years/",
-        "description": "Tobias Ratschiller releases version 0.9.0 of the phpMyAdmin web administration tool for MySQL. For a long time it remained one of the primary tools for accessing MySQL and MySQL-like databases.",
+        "description": "Tobias Ratschiller releases version 0.9.0 of the phpMyAdmin web administration tool for MySQL. For a long time it remained one of the primary tools for accessing MySQL and MySQL-like databases.",
         "comment": ""
     },
     {
@@ -1364,7 +1364,7 @@
         "date": "1998-06-06T00:00:00+00:00",
         "title": "PHP 3.0",
         "href": "",
-        "description": "PHP 3.0 was the first version that closely resembles PHP as it exists today. Zeev and Andi rewrote the interpreter and introduced a new extension API which makes it a lot easier for the community to contribute new extensions. With many new developers from around the world on board, PHP 3 was announced by the new PHP Development Team. <br> The language's name changed to the recursive acronym “PHP: Hypertext Preprocessor”. At its peak, PHP 3 was installed on approximately 10% of all web servers on the Internet.",
+        "description": "PHP 3.0 was the first version that closely resembles PHP as it exists today. Zeev and Andi rewrote the interpreter and introduced a new extension API which makes it a lot easier for the community to contribute new extensions. With many new developers from around the world on board, PHP 3 was announced by the new PHP Development Team. <br> The language’s name changed to the recursive acronym “PHP: Hypertext Preprocessor”. At its peak, PHP 3 was installed on approximately 10% of all web servers on the Internet.",
         "comment": ""
     },
     {
@@ -1420,7 +1420,7 @@
         "date": "1995-10-01T00:00:00+00:00",
         "title": "Personal Home Page Construction Kit",
         "href": "",
-        "description": "Rasmus releases completely rewritten code. Bringing back the PHP name, it is now (briefly) named “Personal Home Page Construction Kit” and is the first release to boast what was considered at the time to be an advanced scripting interface.<br/>The language is deliberately designed to resemble C in structure, making it easy for developers familiar with C, Perl, and similar languages to adopt.",
+        "description": "Rasmus releases completely rewritten code. Bringing back the PHP name, it is now (briefly) named “Personal Home Page Construction Kit” and is the first release to boast what was considered at the time to be an advanced scripting interface.<br/>The language is deliberately designed to resemble C in structure, making it easy for developers familiar with C, Perl, and similar languages to adopt.",
         "comment": ""
     },
     {
@@ -1428,7 +1428,7 @@
         "date": "1995-09-01T00:00:00+00:00",
         "title": "FI",
         "href": "",
-        "description": "Rasmus expands upon PHP. For a short time he actually drops the PHP name. Now referring to the tools as FI (short for “Forms Interpreter”), the new implementation includes some basic functionality of PHP as we know it today.",
+        "description": "Rasmus expands upon PHP. For a short time he actually drops the PHP name. Now referring to the tools as FI (short for “Forms Interpreter”), the new implementation includes some basic functionality of PHP as we know it today.",
         "comment": ""
     },
     {
@@ -1436,7 +1436,7 @@
         "date": "1995-06-08T00:00:00+00:00",
         "title": "PHP Tools – the Birth of PHP",
         "href": "https://groups.google.com/forum/#!msg/comp.infosystems.www.authoring.cgi/PyJ25gZ6z7A/M9FkTUVDfcwJ",
-        "description": "Rasmus releases PHP Tools to the public.",
+        "description": "Rasmus releases PHP Tools to the public.",
         "comment": ""
     },
     {
@@ -1460,7 +1460,7 @@
         "date": "1994-01-01T00:00:00+00:00",
         "title": "Rasmus Lerdorf starts working on PHP",
         "href": "",
-        "description": "The very first incarnation of PHP is a simple set of Common Gateway Interface (CGI) binaries written in the C programming language (<a href=\"https://twitter.com/rasmus/status/226405807305138176\">not Perl</a>). Originally used for tracking visits to Rasmus Lerdorf's online resume, he named the suite of scripts “Personal Home Page Tools,” more commonly referenced as “PHP Tools”.",
+        "description": "The very first incarnation of PHP is a simple set of Common Gateway Interface (CGI) binaries written in the C programming language (<a href=\"https://twitter.com/rasmus/status/226405807305138176\">not Perl</a>). Originally used for tracking visits to Rasmus Lerdorf’s online resume, he named the suite of scripts “Personal Home Page Tools,” more commonly referenced as “PHP Tools”.",
         "comment": "Date unknown"
     }
 ]
