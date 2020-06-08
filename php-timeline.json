@@ -324,7 +324,7 @@
         "date": "2017-07-01T00:00:00+00:00",
         "title": "InfectionPHP 0.1",
         "href": "https://github.com/infection/infection/releases/tag/0.1.0",
-        "description": "Framework that makes mutation testing possible in PHP introduced.",
+        "description": "Introduction of framework that makes mutation testing possible in PHP.",
         "comment": ""
     },
     {
