@@ -37,7 +37,7 @@
         "title": "Laravel 7",
         "href": "https://laravel-news.com/laravel7",
         "description": "",
-        "comment": "remove ?"
+        "comment": "remove as minor?"
     },
     {
         "priority": 3,
@@ -93,7 +93,7 @@
         "title": "Laravel 6",
         "href": "https://laravel-news.com/laravel-6",
         "description": "",
-        "comment": "remove ?"
+        "comment": ""
     },
     {
         "priority": 2,
@@ -1283,7 +1283,7 @@
         "priority": 4,
         "date": "2000-11-01T00:00:00+00:00",
         "title": "leak()",
-        "href": "https://books.google.com.ua/books?id=ehSpcjvPxcAC&pg=PA322&lpg=PA322&dq=php+leak+function&source=bl&ots=ZKGNLQvySS&sig=ACfU3U3qilTxzPLchIrtEAlXDnmYXAup0Q&hl=en&sa=X&ved=2ahUKEwjBpebs-p7pAhXDlosKHYYADuMQ6AEwAnoECAoQAQ#v=onepage&q=php%20leak%20function&f=false",
+        "href": "https://web.archive.org/web/20010417064604/https://www.php.net/manual/en/function.leak.php",
         "description": "Did you know that PHP had a leak() function? It was actually used to leak a specified amount of memory. It was designed to help debug memory management. But is this where all the rumors come from? 🤔",
         "comment": ""
     },
