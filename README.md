@@ -1,13 +1,13 @@
 # PHP Timeline
 
-Notable events of PHP history collected for TBD 
+Notable events of PHP history collected for [https://jb.gg/php25](https://jb.gg/php25). 
 
 
 ## Contributing
 
 If you spot a mistake, please create a pull request with a fix. At this point, we are accepting only minor fixes such as typos, correct dates, more accurate links, and so on.
 
-If you like the timeline, you may support it by adding a star to the repo or sharing a link to the website TBD 
+If you like the timeline, you may support it by adding a star to the repo or sharing a link to the website [jb.gg/php25](https://jb.gg/php25). 
 
 Should the community support this endeavor, we can later make the website dynamic and make it possible to accept changes and additions to the events’ data.
 
