@@ -842,7 +842,7 @@
     {
         "priority": 1,
         "date": "2012-04-09T00:00:00+00:00",
-        "title": "PHP: a fractal of bad design",
+        "title": "PHP: a fractal of bad design",
         "href": "https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/",
         "description": "The post presents an overview of many PHP problems of the day. Many of them will later be fixed, but PHP haters still refer to the article as a source of truth.",
         "comment": ""
