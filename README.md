@@ -14,7 +14,7 @@ Should the community support this endeavor, we can later make the website dynami
 
 ## Credits
 
-Community members who helped collect and review the timeline data:
+Community members who helped with collecting and reviewing the timeline data:
 
 * [Peter Kokot](https://github.com/petk)
 * [Derick Rethans](https://github.com/derickr)
