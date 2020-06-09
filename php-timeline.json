@@ -946,8 +946,8 @@
     {
         "priority": 2,
         "date": "2010-12-21T00:00:00+00:00",
-        "title": "Doctrine 1.0 released",
-        "href": "https://www.doctrine-project.org/2008/09/01/doctrine-1-0-released.html",
+        "title": "Doctrine 2.0 released",
+        "href": "https://www.doctrine-project.org/2010/12/21/doctrine2-released.html",
         "description": "",
         "comment": ""
     },
@@ -1037,6 +1037,14 @@
         "title": "Yii version 1",
         "href": "https://web.archive.org/web/20081007231834/http://www.yiiframework.com:80/",
         "description": "The author of PRADO releases a new RAD framework. Many ideas and some code were taken from PRADO, including: ActiveRecord, i18n, l10n, etc. Yii also drew inspiration from RoR (convention over configuration, some AR features), Symfony1 (filters, plugins) and Joomla (modules, message translation).",
+        "comment": ""
+    },
+    {
+        "priority": 2,
+        "date": "2008-09-01T00:00:00+00:00",
+        "title": "Doctrine 1.0 released",
+        "href": "https://www.doctrine-project.org/2008/09/01/doctrine-1-0-released.html",
+        "description": "",
         "comment": ""
     },
     {
