@@ -1239,6 +1239,14 @@
         "description": "This is the first PHP IDE and remains the de facto standard until about 2005. In 2005, folks from Zend launch the open source Eclipse PHP development tools project to move PHP further in the enterprise market. <br> Before 2.0 release it was known as Zend IDE.",
         "comment": ""
     },
+        {
+        "priority": 2,
+        "date": "2001-12-08T00:00:00+00:00",
+        "title": "XOOPS goes live",
+        "href": "https://xoops.org/modules/wfchannel/index.php",
+        "description": "XOOPS (eXtensible Object Oriented Portal System) is CMS and web application platform.",
+        "comment": ""
+    },
     {
         "priority": 2,
         "date": "2001-12-01T00:00:00+00:00",
