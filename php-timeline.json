@@ -64,6 +64,14 @@
         "comment": ""
     },
     {
+        "priority": 2,
+        "date": "2020-01-05T00:00:00+00:00",
+        "title": "Wikipedia moves back to PHP7",
+        "href": "https://phabricator.wikimedia.org/T229792",
+        "description": "",
+        "comment": ""
+    },
+        {
         "priority": 3,
         "date": "2019-12-15T00:00:00+00:00",
         "title": "CakePHP 4.0",
