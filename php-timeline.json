@@ -912,6 +912,14 @@
         "comment": ""
     },
     {
+        "priority": 2,
+        "date": "2011-06-25T00:00:00+00:00",
+        "title": "YAF submitted to PECL",
+        "href": "http://pecl.php.net/package/yaf",
+        "description": "Yaf is a PHP framework similar to zend framework, which is written in c and built as PHP extension",
+        "comment": ""
+    },
+    {
         "priority": 1,
         "date": "2011-06-09T00:00:00+00:00",
         "title": "Laravel 1",
