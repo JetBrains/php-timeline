@@ -1396,7 +1396,7 @@
         "date": "1998-04-01T00:00:00+00:00",
         "title": "First PHP books",
         "href": "https://www.databazeknih.cz/knihy/php-tvorba-interaktivnich-internetovych-aplikaci-230573",
-        "description": "The first book on PHP is ”PHP - tvorba interaktivních internetových aplikací” (PHP - Creating Interactive Internet Applications). Written in the Czech language by Jirka Kosek, it is published in April 1999. A German book authored by Egon Schmid, Christian Cartus and Richard Blume is published the following month. The first book in English, “Core PHP Programming” by Leon Atkinson, is published soon after. All these books cover PHP 3.0.",
+        "description": "The first definitive book on PHP is ”PHP - tvorba interaktivních internetových aplikací” (PHP - Creating Interactive Internet Applications). Written in the Czech language by Jirka Kosek, it is published in April 1999. A German book authored by Egon Schmid, Christian Cartus and Richard Blume is published the following month. The first book in English, “Core PHP Programming” by Leon Atkinson, is published soon after. All these books cover PHP 3.0. There were books about PHP/FI before then.",
         "comment": ""
     },
     {
