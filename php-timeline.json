@@ -1,6 +1,14 @@
 [
     {
         "priority": 2,
+        "date: "2020-06-25T00:00:00+00:00",
+        "title": "PHP 8.0.0 Alpha 1 available for testing",
+        "href": "https://www.php.net/archive/2020.php#2020-06-25-1",
+        "description": "",
+        "comment": ""
+    },
+    {
+        "priority": 2,
         "date": "2020-05-04T00:00:00+00:00",
         "title": "Attributes accepted for PHP 8",
         "href": "https://wiki.php.net/rfc/attributes_v2",
