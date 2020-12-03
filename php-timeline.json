@@ -1344,6 +1344,14 @@
         "comment": ""
     },
     {
+        "priority": 2,
+        "date": "1999-04-01T00:00:00+00:00",
+        "title": "First PHP books",
+        "href": "https://www.databazeknih.cz/knihy/php-tvorba-interaktivnich-internetovych-aplikaci-230573",
+        "description": "The first definitive book on PHP is ”PHP - tvorba interaktivních internetových aplikací” (PHP - Creating Interactive Internet Applications). Written in the Czech language by Jirka Kosek, it is published in April 1999. A German book authored by Egon Schmid, Christian Cartus and Richard Blume is published the following month. The first book in English, “Core PHP Programming” by Leon Atkinson, is published soon after. All these books cover PHP 3.0. There were books about PHP/FI before then.",
+        "comment": ""
+    },
+    {
         "priority": 1,
         "date": "1999-01-01T00:00:00+00:00",
         "title": "Zend company founded",
@@ -1389,14 +1397,6 @@
         "title": "Netcraft Survey",
         "href": "",
         "description": "In 1997 and 1998, PHP/FI has a cult of several thousand users around the world. A Netcraft survey showed that as of May 1998 nearly 60,000 domains contained “PHP” in their headers, indicating that the host server had PHP installed. This number equated to approximately 1% of all domains on the Internet at the time. Despite these impressive figures, the maturation of PHP/FI was doomed by limitations; while there were several minor contributors, it was still primarily developed by an individual.",
-        "comment": ""
-    },
-    {
-        "priority": 2,
-        "date": "1998-04-01T00:00:00+00:00",
-        "title": "First PHP books",
-        "href": "https://www.databazeknih.cz/knihy/php-tvorba-interaktivnich-internetovych-aplikaci-230573",
-        "description": "The first definitive book on PHP is ”PHP - tvorba interaktivních internetových aplikací” (PHP - Creating Interactive Internet Applications). Written in the Czech language by Jirka Kosek, it is published in April 1999. A German book authored by Egon Schmid, Christian Cartus and Richard Blume is published the following month. The first book in English, “Core PHP Programming” by Leon Atkinson, is published soon after. All these books cover PHP 3.0. There were books about PHP/FI before then.",
         "comment": ""
     },
     {
