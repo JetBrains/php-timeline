@@ -707,7 +707,7 @@
         "priority": 3,
         "date": "2013-07-05T00:00:00+00:00",
         "title": "ElisLab looking for new owner for CodeIgniter",
-        "href": "https://ellislab.com/blog/entry/ellislab-seeking-new-owner-for-codeigniter",
+        "href": "",
         "description": "",
         "comment": ""
     },
@@ -892,7 +892,7 @@
         "date": "2011-08-21T00:00:00+00:00",
         "title": "Composer",
         "href": "https://groups.google.com/forum/#!topic/composer-dev/3UbUgUibyOo",
-        "description": "By 2011, all major languages already have their own package managers: npm, Bundler, pip, NuGet. Coming in last, PHP <a href=\"http://blog.nelm.io/2011/12/composer-part-1-what-why/\">receives a state-of-the-art package management tool</a> thanks to Jordi Boggiano, Nils Adermann, and other <a href=\"https://github.com/composer/composer/graphs/contributors\">contributors</a>. <br> <a href=\"https://twitter.com/packagist/status/125514239304663041\">OHAI PHP DEVS, Y U NO PACKAGE?</a>",
+        "description": "By 2011, all major languages already have their own package managers: npm, Bundler, pip, NuGet. Coming in last, PHP receives a state-of-the-art package management tool thanks to Jordi Boggiano, Nils Adermann, and other <a href=\"https://github.com/composer/composer/graphs/contributors\">contributors</a>. <br> <a href=\"https://twitter.com/packagist/status/125514239304663041\">OHAI PHP DEVS, Y U NO PACKAGE?</a>",
         "comment": ""
     },
     {
