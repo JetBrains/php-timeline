@@ -1,3 +1,5 @@
+[![JetBrains team project](https://jb.gg/badges/team.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+
 # PHP Timeline
 
 Notable events of PHP history collected for [https://jb.gg/php25](https://jb.gg/php25). 
