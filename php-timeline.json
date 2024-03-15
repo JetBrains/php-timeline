@@ -64,6 +64,14 @@
         "comment": ""
     },
     {
+        "priority": 2,
+        "date": "2019-12-21T00:00:00+00:00",
+        "title": "Phalcon 4.0",
+        "href": "https://docs.phalcon.io/4.0/en/upgrade",
+        "description": "",
+        "comment": ""
+    },
+    {
         "priority": 3,
         "date": "2019-12-15T00:00:00+00:00",
         "title": "CakePHP 4.0",
